@@ -1,0 +1,85 @@
+Comms ID,Stakeholder ID,Comms date,TL-01,G-01,U-01,U-02,U-03,CF-01,CF-02,CF-04,CF-05,CF-06,CF-07,C-01,C-02,EF-01,EF-02,EF-03,EF-05,EF-06,IT-01,IT-02,IT-03,IT-04
+C-ELN-FR-001,G-STK-001,16/01/2024,,,,,,"With internal links,
+Rich text editor",Image formats,,"Subject specific templates,
+Define own templates",,,,,,,,,,,,,"Local,
+Provider's Cloud"
+C-ELN-FR-002,STK-020,05/02/2024,OneNote (Microsoft),,,,,With internal links,,,,,Real-time collaboration,,,"Instrument management,
+LIMS connectivity,
+Sample Tracking",,,,,,,,Local
+C-ELN-FR-003,STK-045,13/03/2024,RSpace,,,,Online documentation,With external links,MS Office formats,,,,,,,,,,,,,,Browser based,Local
+C-ELN-FR-004,STK-002,27/02/2024,RSpace,,Yes,,"User training (online, on site)",,,Complete content in document format,Define own templates,Advanced/conditional search,,,,"Ordering function,
+Asset management,
+Sample Tracking","Slack,
+Figshare",,,,,,Browser based,Local
+C-ELN-FR-005,STK-011,16/02/2024,RSpace,,,,,,"MS Office formats,
+Image formats",,Define own templates,"Tagging,
+File/data hierarchy,
+Advanced/conditional search,
+Full text search","Rights management,
+External guest permitted",,,,"Protocols.io,
+One Drive",,,,,,,
+C-ELN-FR-006,STK-042,23/08/2024,LabArchives,,Yes,,,"Annotation,
+Rich text editor,
+Freehand/Sketches","Document formats,
+Image formats,
+Structured formats,
+MS Office formats",,,"Advanced/conditional search,
+File/data hierarchy","Task assignment,
+External guest permitted,
+Rights management,
+Real-time collaboration",,,"Sample Tracking,
+Materials database","SnapGene (Dotmatics),
+One Drive,
+Dropbox",Autoupload/folder watch,"Task management,
+Taskboard",,,,Browser based,"Local,
+Provider's Cloud"
+C-ELN-FR-007,STK-037,27/08/2024,eLabJournal (eLabNext),,,,,Rich text editor,Image formats,,Define own templates,Advanced/conditional search,,Audit Trail,,,,,,,,,,"Local,
+Provider's Cloud"
+C-ELN-FR-008,STK-014,03/09/2024,,,,,"User training (online, on site)",,,Formats suitable for long term archiving,Define own templates,,"Real-time collaboration,
+Rights management,
+Role management",,,,,,,,,,,"Local,
+Provider's Cloud"
+C-ELN-FR-009,STK-010,05/09/2024,Jupyter Notebook,,,,"User training (online, on site)",,,,,Advanced/conditional search,"External guest permitted,
+Role management,
+Real-time collaboration",Versioning,,,,Data analysis,,,Other API,,,
+C-ELN-FR-010,STK-016,20/09/2024,eLabFTW,,,,"User training (online, on site)","With internal links,
+XHTML-Editor,
+Annotation,
+Freehand/Sketches,
+Rich text editor,
+Dictation function,
+With external links,
+Barcode Scanner",Table formats,"Formats suitable for publication,
+Direct publication option",Define own templates,Advanced/conditional search,"Rights management,
+Role management","Audit Trail,
+Versioning,
+Electronic signature","FDA CFR 21 Part 11,
+Good Clinical practice (GCP)","LIMS connectivity,
+Asset management,
+Sample Tracking,
+Materials database",,Autoupload/folder watch,,Reports,Other API,,"Browser based,
+Responsive Design",
+C-ELN-FR-011,STK-024,11/09/2024,Kadi4Mat,,Yes,,"User training (online, on site)",,,,Define own templates,"Filtering,
+Advanced/conditional search,
+File/data hierarchy","Rights management,
+Role management","Timestamping,
+Electronic signature,
+Locking,
+Audit Trail",,,,,,,,Yes,,
+C-ELN-FR-012,STK-011,27/09/2024,RSpace,,,,,"With internal links,
+With external links",Image formats,Formats suitable for publication,"Define own templates,
+Import from internet sources,
+Subject specific templates","File/data hierarchy,
+Full text search",Rights management,Locking,,,"Protocols.io,
+GraphPad Prism (Dotmatics)",,,Export possible,,,,
+C-ELN-FR-013,STK-013,01/10/2024,Kadi4Mat,,,,"User training (online, on site)",,,"Complete content in machine readable format,
+Formats suitable for long term archiving","Subject specific templates,
+Define own templates",File/data hierarchy,"Rights management,
+Role management","Audit Trail,
+Versioning,
+Timestamping",,,,,,"Project-related workflows,
+Cross-project workflows,
+Graphical",Other API,,,
+C-ELN-FR-014,STK-048,07/10/2024,Github,,,,,With external links,,,"Define own templates,
+Subject specific templates",,,,,,"Github,
+Figshare",,,Project-related workflows,Other API,,,
