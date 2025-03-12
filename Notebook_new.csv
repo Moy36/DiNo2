@@ -1,0 +1,1794 @@
+﻿ID,TL-01,TL-02,TL-03,TL-04,TL-05,TL-06,TL-07,TL-08,TL-09,TL-10,G-01,G-02,G-03,G-04,G-05,U-01,U-02,U-03,U-04,U-05,CF-01,CF-02,CF-03,CF-04,CF-05,CF-06,CF-07,C-01,C-02,EF-01,EF-02,EF-03,EF-04,EF-05,EF-06,IT-01,IT-02,IT-03,IT-04,IT-05,IT-06
+ELN-01,Benchling Notebook,Benchling Notebook is more than an ELN: Capture structured and unstructured lab work with the first cloud-based notebook built for biotech.,Benchling,"Benchling began over a decade ago in an academic lab, when our founders realized that the technology needed to support the complexity and pace of science wasn't available. So they created their own, with modern science and collaboration in mind. Today, Benchling serves the world’s biotech leaders and innovators, big and small.",https://www.benchling.com/benchling-eln/,Active,"Volume 5, 2024 released June 2024",12/07/2024,Unknown,Unknown,Closed Source,"Biology,
+Chemistry,
+Biochemistry,
+Biotech","Industry,
+Free,
+Chargeable / Paid for / fee-based,
+Per person / Tiered Pricing,
+Academic",Demo,"Switzerland,
+USA",Unknown,English,"User training (online, on site),
+Online documentation,
+Support by provider (Consulting)","No,
+Unknown",None,"Chemical editor/sketching,
+Barcode Scanner,
+With external links,
+Plain text editor,
+With internal links,
+Table editor,
+Annotation",All formats,Drag and Drop/File Chooser,Formats suitable for publication,Define own templates,"Filtering,
+Advanced/conditional search","Rights management,
+Role management,
+Notifications,
+Task assignment","Audit Trail,
+Electronic signature,
+Timestamping,
+Versioning","ISO 27001,
+General Data Protection Regulation (GDPR),
+FDA CFR 21 Part 11","Sample Tracking,
+Inventory (devices),
+LIMS connectivity,
+Instrument management","Dropbox,
+Egnyte,
+Google Drive,
+Other vendor products,
+Jupyter,
+Evernote,
+OneNote",Autoupload/folder watch,Yes,Calendar,"Yes,
+Cross-project workflows,
+Project-related workflows","Other API,
+REST API,
+SDK",Unknown,"Browser based,
+Local client",Provider's Cloud,Software as a Service,Unknown
+ELN-02,Genemod,"Genemod provides a platform to allow life scientists, researchers, and other customers to collaborate in their labs and streamline data management. ","Genemod, Inc.","Genemod accelerates life sciences R&D by improving collaboration for every team so that scientists can work on big ideas, without the busywork.",https://genemod.net/,Active,Accessed trial,22/07/2024,Secure infrastructure,Export to document format,Closed Source,"Life Sciences,
+Biotech,
+Biology,
+Pharmacology","Freemium (Number of users, functions),
+Academic,
+Industry,
+Per person / Tiered Pricing",Demo,USA,Yes,English,Online documentation,Yes,None,"With internal links,
+Table editor,
+Barcode Scanner,
+Rich text editor",All formats,Drag and Drop/File Chooser,Formats suitable for publication,Define own templates,"File/data hierarchy,
+Tagging,
+Filtering,
+Advanced/conditional search","Notifications,
+Comments,
+Role management,
+Real-time collaboration","Audit Trail,
+Versioning","ISO 27001,
+SOC2,
+GxP,
+FDA CFR 21 Part 11","Materials database,
+Instrument management,
+Inventory (devices),
+Sample Tracking,
+Ordering function,
+Freezer Management","One Drive,
+Microsoft Office Plug-in,
+Dropbox,
+Slack,
+Google Drive",None,No,Calendar,Reports,Other API,Yes,Browser based,Provider's Cloud,Software as a Service,Unknown
+ELN-03,Labfolder (Labforward),"Labfolder ELN enables documents and data to be stored in an effective way. As a result, it enables efficient processes and increases the overall quality of documentation. The collaborative nature of Labfolder enables lab technicians and lab managers to share and review data as a team or even across the organisation. Labregister, integrated with Labfolder, is an effective and comprehensive laboratory inventory management system that facilitates an overview of a laboratory's entire inventory. Researchers can list materials with their properties to ensure centralised organisation. The system allows scientists to track each inventory item through its specific life cycle and provides a direct link to lab notes. Laboperator, our innovative solution for device integrations and workflow automations, enables data transfer directly from the hardware into the ELN. The combination of our products lays the foundation for all future digital transformation needs by focusing on connectivity.",Labforward GmbH,Labforward GmbH is a German company based in Berlin. Labforward builds thoughtful productivity platforms for research teams and supports scientists in their quest to make breakthrough discoveries.,https://labfolder.com/,Active,v3.8.1 released 10 July 2024,24/07/2024,"Continuous maintenance,
+Backup and restore,
+Encryption in transit","Export to document format,
+Export to structured format,
+Export to packed format",Closed Source,Generic,"Academic,
+Industry,
+Freemium (Number of users, functions),
+Per person / Tiered Pricing,
+Chargeable / Paid for / fee-based","Classroom,
+Demo",Germany,No,"English,
+French,
+German","Online documentation,
+User training (online, on site),
+Support by provider (Consulting)",No,Unknown,"Barcode Scanner,
+Freehand/Sketches,
+Table editor,
+With internal links,
+Plain text editor,
+XHTML-Editor,
+With external links",All formats,"Drag and Drop/File Chooser,
+Mobile phone photo (via app)","Complete content in document format,
+Complete content in machine readable format,
+Formats suitable for long term archiving,
+Formats suitable for publication","Define own templates,
+Import of own templates,
+Subject specific templates,
+Microtitre plate templates","Database queries,
+Full text search,
+Advanced/conditional search","Comments,
+Rights management,
+Role management,
+Real-time collaboration","Audit Trail,
+Electronic signature,
+Versioning,
+Timestamping","Good Manufacturing practice (GMP),
+Good Laboratory Practice (GLP),
+HIPAA,
+ISO 27001,
+FDA CFR 21 Part 11","Materials database,
+Sample Tracking,
+Asset management,
+Freezer Management,
+Instrument management,
+Inventory (devices),
+LIMS connectivity,
+Ordering function","Dropbox,
+Figshare,
+On request,
+Create own plug-ins","On request,
+Data analysis,
+Device control,
+Autoupload/folder watch",Yes,None,"Cross-project workflows,
+Export possible,
+Graphical,
+Import possible,
+Project-related workflows,
+Yes,
+Reports",REST API,No,"Browser based,
+Responsive Design","Cloud of own choice,
+Local,
+Provider's Cloud","On-premises,
+Software as a Service",Unknown
+ELN-04,LabID,"Lab Integrated Data (LabID) is a web platform for fundamental research data-management, featuring a lab inventory system, an Electronic Lab Notebook (ELN) coupled to a powerful Dataset & Sample management system.","Genome Biology Computational Support, European Molecular Biology Laboratory (EMBL)","The Genome Biology Computational Support (GBCS) provides essential computational support to the GB Unit and EMBL-wide, by implementing a coherent infrastructure that improves data management, helps ensure data integrity and reproducible science (FAIR data) and empowers biologists to analyse their own data.",https://gbcs.embl.de/labid,Active,Release v24.6.2 a month old,23/07/2024,"Secure software development life cycle (SDLC),
+Role-based access,
+Authentication,
+Continuous maintenance","Backups of all notebooks simultaneously with transfer to an institutional repository or other storage location,
+Export to structured format,
+Individual backups of notebooks in multiple formats","Open Source,
+MIT","Genetics,
+Biology,
+Consumables,
+Generic,
+Life Sciences",Free,Demo,Germany,Yes,English,"Online documentation,
+User training (online, on site),
+Support by provider (Consulting)",Yes,Unknown,"Browser forms,
+Rich text editor,
+With internal links,
+With external links,
+Table editor",All formats,"Drag and Drop/File Chooser,
+Mobile phone photo (via app)","Complete content in document format,
+Formats suitable for long term archiving,
+Formats suitable for publication,
+Complete content in machine readable format,
+Direct publication option","Import of own templates,
+Define own templates,
+Subject specific templates","Full text search,
+File/data hierarchy,
+Advanced/conditional search","Role management,
+Comments,
+Rights management","Timestamping,
+Locking",None,"Freezer Management,
+Inventory (devices),
+Materials database,
+Ordering function,
+Sample Tracking","Libre Office,
+Galaxy",On request,Unknown,Task management,Unknown,"REST API,
+Command line input",Yes,"Browser based,
+Local client,
+Responsive Design",Local,On-premises,"Linux,
+MacOS"
+ELN-05,Labstep,"Labstep provides a modern, intuitive interface for scientific research that combines ELN, LIMS, LES and Order Management into a single collaborative environment.",Labstep Ltd.,In 2015 the first prototype of the platform was created within the University of Oxford. Now owned by StarLIMS.,https://www.labstep.com/,Active,"Page footer not updated since 2021, but STARLIMS is, and demo runs",24/07/2024,"Backup and restore,
+Authentication,
+Encryption in transit,
+Secure infrastructure,
+High availability and disaster recovery",Vendor-supported outward migration,Closed Source,"Life Sciences,
+Chemistry,
+Generic,
+Biochemistry","Academic,
+Industry,
+Freemium (Number of users, functions),
+Per person / Tiered Pricing,
+Chargeable / Paid for / fee-based",Demo,"UK,
+USA",Yes,English,"Online documentation,
+User training (online, on site),
+Support by provider (Consulting)",Unknown,None,"Barcode Scanner,
+Chemical editor/sketching,
+Plain text editor,
+Table editor,
+Scientific calculator",All formats,"Drag and Drop/File Chooser,
+Mobile phone photo (via app)","Formats suitable for long term archiving,
+Complete content in machine readable format",Define own templates,"Filtering,
+Search for reactions by chemical structure","Comments,
+Rights management,
+Role management","Electronic signature,
+Versioning","Good Laboratory Practice (GLP),
+Good Manufacturing practice (GMP),
+FDA CFR 21 Part 11","Ordering function,
+Inventory (devices),
+LIMS connectivity,
+Materials database,
+Sample Tracking","Box,
+Jupyter,
+Dropbox,
+Google Drive,
+One Drive,
+ChemDraw (Revvity Signals),
+Pubchem (NLM)","Data analysis,
+Device control,
+Autoupload/folder watch",Yes,Unknown,Unknown,"Python API,
+SDK",Yes,Browser based,Provider's Cloud,Software as a Service,Unknown
+ELN-06,SciNote,"SciNote is a platform for researchers in academia and industry who need an electronic lab notebook, inventory management and project management capabilities. With SciNote, laboratories can create, store and share protocols and SOPs, various scientific methods, operating procedures, equipment instructions, safety guidelines, etc. in a structured and easy way. It is easy to upload, write, customise and review different versions of protocols rich in content such as text, images, tables, checklists, chemical drawings, code, keywords, comments, etc. To save time and improve traceability, labs use SciNote protocol templates or public protocols from protocols.io to perform repetitive experiments or ensure reproducibility of results, saving time. Lab members can link protocols to experimental data at any time to ensure traceability of data.","SciNote, LLC","SciNote is a cloud-based ELN software with lab inventory, compliance, & team management tools used by the FDA, USDA and scientists in 100+ countries.",https://www.scinote.net/,Active,"Website alive and well, as is LinkedIn profile. July 2024 version released.",26/07/2024,"Encryption at rest,
+Encryption in transit","Export to document format,
+Backups of all notebooks simultaneously with transfer to an institutional repository or other storage location","Open Source,
+Mozilla Public Licence 2.0",Generic,"Academic,
+Freemium (Number of users, functions),
+Industry,
+Per person / Tiered Pricing,
+Chargeable / Paid for / fee-based,
+Free","Classroom,
+Demo",USA,No,English,"Online documentation,
+Support by provider (Consulting)",No,Unknown,"Barcode Scanner,
+Plain text editor,
+Table editor,
+With internal links,
+With external links,
+Chemical editor/sketching",All formats,Drag and Drop/File Chooser,"Complete content in document format,
+Formats suitable for publication","Import of own templates,
+Define own templates,
+Import from internet sources","Full text search,
+Advanced/conditional search","Rights management,
+Role management,
+Comments","Audit Trail,
+Timestamping,
+Electronic signature,
+Versioning","Good Laboratory Practice (GLP),
+Good Manufacturing practice (GMP),
+SAFE-BioPharma Digital Identity and Signature Standard,
+ISO 27001,
+General Data Protection Regulation (GDPR),
+FDA CFR 21 Part 11","Inventory (devices),
+LIMS connectivity,
+Materials database,
+Sample Tracking,
+Freezer Management,
+Ordering function","In-house plugins,
+Protocols.io,
+Microsoft Office Plug-in,
+Other vendor products,
+Marvin JS (ChemAxon)",Autoupload/folder watch,Yes,"Calendar,
+Task management","Export possible,
+Graphical,
+Yes,
+Project-related workflows,
+Reports",REST API,No,"Browser based,
+Local client,
+Mobile Application,
+Responsive Design","Provider's Cloud,
+Cloud of own choice,
+Local","On-premises,
+Software as a Service","MacOS,
+Windows,
+Linux"
+ELN-07,Uncountable (Unified Platform),"Uncountable is an all-in-one enterprise software that provides global R&D organizations with versatile laboratory software that integrates ELN, LIMS, and the most vital scientific data management systems into a single web-based platform. Uncountable’s web-based platform provides a seamless and comprehensive platform for scientists and technicians to work directly – allowing them to generate, capture, and aggregate high-quality, interconnected, and structured data across the entire organization from the very first point of entry. With Uncountable, you can accelerate the pace at which you can develop cutting-edge products at the forefront of innovation.",Uncountable,Uncountable's mission is to accelerate R&D by order of magnitude. Our founding team of MIT and Stanford engineers brings expertise in software development and data analytics.,https://www.uncountable.com/cloud-platform,Active,"Website alive and well, as is LinkedIn profile.",26/07/2024,"Secure infrastructure,
+Authentication,
+Role-based access,
+High availability and disaster recovery",Unknown,Closed Source,Generic,"Industry,
+Per person / Tiered Pricing",Demo,"Germany,
+USA",Yes,Multilingual,"Online documentation,
+User training (online, on site),
+Support by provider (Consulting)","Can be turned off,
+Configurable",Unknown,"Barcode Scanner,
+Browser forms,
+Chemical editor/sketching,
+Dictation function,
+Mathematical formula/equation editor,
+Microtitre plates,
+Rich text editor,
+Scientific calculator",All formats,Drag and Drop/File Chooser,Complete content in machine readable format,Define own templates,"Database queries,
+Full text search,
+Search for reactions by chemical structure,
+Advanced/conditional search","Comments,
+Rights management,
+Role management","Audit Trail,
+Electronic signature,
+Versioning,
+Timestamping","Good Clinical practice (GCP),
+Good Laboratory Practice (GLP),
+Good Manufacturing practice (GMP),
+HIPAA,
+ISO 27001,
+FDA CFR 21 Part 11","Inventory (devices),
+LIMS connectivity,
+Materials database,
+Sample Tracking","Create own plug-ins,
+In-house plugins,
+SAP BTP","Autoupload/folder watch,
+On request,
+Data analysis,
+Device control",Yes,"Calendar,
+Taskboard,
+Task management","Cross-project workflows,
+Export possible,
+Graphical,
+Import possible,
+Project-related workflows,
+Reports,
+Yes",REST API,Unknown,"Browser based,
+Responsive Design","Cloud of own choice,
+Provider's Cloud",Software as a Service,Linux
+ELN-08,Dotmatics,"Dotmatics is a platform with many different capabilities that are listed below:
+- Enable Collaborative Research: Capture and store experiments and share with internal and external collaborators in a single, intuitive framework to support data-driven decision making with secure, virtual notebook software.
+- Capture Data Across Scientific Disciplines: Flexible templates in the digital lab notebook accommodate chemistry, biologics, chemicals and materials experiments and incorporate guidelines in maintaining a laboratory notebook effectively.
+- Leverage Seamless Workflow Integration: Optimize the cycle of innovation with a cohesive notebook workflow, where data flows securely between the electronic lab book and experiment registration, screening, and decision support.",Dotmatics,"Dotmatics are owned by the company previously known as Insightful Science (Who own SnapGene, Genius and Prism and Lab Archives) and the entire set of companies have been rebranded as Dotmatics",https://www.dotmatics.com/,Active,Version release was 6.2.1 on the 19th December 2023,19/07/2024,"Continuous maintenance,
+Unknown",Vendor-supported outward migration,Closed Source,"Biology,
+Chemistry,
+Consumables,
+Energy,
+Generic,
+Genetics,
+Life Sciences,
+Natural Sciences,
+Pharmacy","Chargeable / Paid for / fee-based,
+Industry,
+Per person / Tiered Pricing",Demo,"UK,
+USA,
+Korea",Yes,"English,
+French,
+German,
+Korean,
+Mandarin Chinese,
+Italian,
+Japanese,
+Hebrew","Online documentation,
+User training (online, on site),
+Support by provider (Consulting)",Yes,On-site capabilities,"Barcode Scanner,
+Browser forms,
+Chemical editor/sketching,
+Plain text editor,
+Rich text editor,
+Scientific calculator,
+Table editor,
+With internal links,
+With external links,
+HELM editor","Video formats,
+Document formats,
+Image formats,
+MS Office formats,
+Scientific formats,
+Structured formats,
+Table formats,
+Packed formats",Drag and Drop/File Chooser,"Complete content in document format,
+Unknown","Define own templates,
+Import from internet sources,
+Subject specific templates,
+Microtitre plate templates","Full text search,
+Database queries,
+BLAST Search,
+Advanced/conditional search,
+Search for reactions by chemical structure","Rights management,
+Role management","Versioning,
+Timestamping,
+Audit Trail,
+Electronic signature",ISO 27001,"LIMS connectivity,
+Materials database,
+Sample Tracking,
+Inventory (devices),
+Freezer Management","ChemDraw (Revvity Signals),
+Marvin JS (ChemAxon),
+MarvinSketch (ChemAxon),
+SnapGene (Dotmatics)","Autoupload/folder watch,
+Data analysis",Yes,Task management,"Project-related workflows,
+Cross-project workflows,
+Reports,
+Yes","Java API,
+REST API",Yes,"Browser based,
+Responsive Design,
+Local client","Local,
+Cloud of own choice,
+Provider's Cloud","On-premises,
+Software as a Service","Linux,
+MacOS,
+Windows"
+ELN-09,eLabFTW,"With eLabFTW you get a secure, modern and compliant system to track your experiments efficiently but also manage your lab with a powerful and versatile database. If you do experimental research, then eLabFTW is for you. Whatever your field is. It is also well suited for universities, tinkerers or biotech companies. Keep track of your experiments and collaborate with your team easily!",Deltablot,"Deltablot is a french company producing open source software and secure, quality code.",https://www.elabftw.net/,Active,v5.0.4 released March 2024,19/07/2024,"Secure software development life cycle (SDLC),
+Continuous maintenance,
+Authentication,
+Backup and restore,
+Role-based access","Export to document format,
+Export to table format,
+Export to packed format,
+Export to structured format,
+Backups of all notebooks simultaneously with transfer to an institutional repository or other storage location",Open Source,"Generic,
+Genetics,
+Biology,
+Chemistry,
+Life Sciences","Free,
+Independent of number of users,
+Chargeable / Paid for / fee-based",Demo,France,Yes,"English,
+Freely extensible,
+Multilingual","Online documentation,
+User training (online, on site),
+Support by provider (Consulting)",Yes,None,"With internal links,
+With external links,
+Freehand/Sketches,
+Chemical editor/sketching,
+Table editor,
+Plain text editor,
+Rich text editor",All formats,Drag and Drop/File Chooser,"Formats suitable for publication,
+Formats suitable for long term archiving,
+Complete content in document format,
+Complete content in machine readable format","Define own templates,
+Import from internet sources","Database queries,
+Full text search,
+Tagging,
+Filtering,
+Advanced/conditional search","Rights management,
+Role management,
+Comments,
+Notifications,
+Shared calendar(s)/scheduling","Timestamping,
+Versioning,
+Locking","FERPA,
+FISMA,
+HIPAA,
+Good Laboratory Practice (GLP)","Materials database,
+Inventory (devices),
+Sample Tracking",ChemDoodle (iChemLabs),None,No,"Calendar,
+Task management","Project-related workflows,
+Cross-project workflows","Python API,
+Java API,
+Other API,
+REST API",Unknown,Browser based,"Provider's Cloud,
+Local","On-premises,
+Software as a Service",Linux
+ELN-10,eLabJournal (eLabNext),"eLabJournal is a comprehensive electronic laboratory journal suitable for all laboratory environments, from small academic institutions and start-up companies to large academic institutions and global corporations. Besides the full electronic lab notebook solution, eLabJournal also enables you to streamline the entire workflow in a laboratory, including sample tracking, protocol management, device sharing and booking as well as managing supplies. ",eLabNext (Bio-Itech BV),"eLabNext was founded in 2010 and is a brand of Bio-ITech BV, part of Eppendorf group.",https://www.elabnext.com/products/elabjournal/,Active,Website footer showing 2024 and pages appear maintained,19/07/2024,"High availability and disaster recovery,
+Storage in multiple data centers,
+Secure infrastructure,
+Backup and restore,
+Encryption in transit,
+Encryption at rest","Export to document format,
+Export to structured format,
+Export to table format",Closed Source,"Generic,
+Life Sciences,
+Biology,
+Pharmacology,
+Genetics,
+Pharmacy","Chargeable / Paid for / fee-based,
+Per person / Tiered Pricing,
+Academic,
+Industry","Classroom,
+Demo","Netherlands,
+USA,
+Ireland",No,"English,
+French,
+German,
+Spanish","User training (online, on site),
+Online documentation,
+Support by provider (Consulting)",No,Unknown,"Barcode Scanner,
+Chemical editor/sketching,
+Table editor,
+With external links,
+With internal links,
+Freehand/Sketches,
+Plain text editor,
+Mathematical formula/equation editor,
+Dictation function","Document formats,
+Image formats,
+Compressed formats,
+Audio formats,
+Video formats,
+MS Office formats,
+Table formats,
+Structured formats","Drag and Drop/File Chooser,
+Mobile phone photo (via app)","Formats suitable for publication,
+Complete content in document format,
+Formats suitable for long term archiving","Define own templates,
+Microtitre plate templates,
+Import of own templates,
+Import from internet sources,
+Subject specific templates","Full text search,
+BLAST Search,
+Filtering,
+Advanced/conditional search,
+Search for reactions by chemical structure","Role management,
+Rights management,
+Comments,
+Shared calendar(s)/scheduling,
+Task assignment","Audit Trail,
+Timestamping,
+Versioning,
+Electronic signature","FERPA,
+FISMA,
+HIPAA,
+ADA,
+Good Laboratory Practice (GLP),
+ISO 27001,
+FDA CFR 21 Part 11","Inventory (devices),
+Instrument management,
+Materials database,
+Sample Tracking,
+Ordering function,
+Freezer Management","Dropbox,
+Google Drive,
+Box,
+Other vendor products,
+DMP Tool,
+Elemental Machines,
+RackScan Analyzer (Eppendorf ),
+SafeCode System (Eppendorf ),
+VisioNize sense (Eppendorf ),
+Label printing (FLUICS),
+Immunarch (ImmunoMind),
+Create own plug-ins,
+Marvin JS (ChemAxon),
+Mendeley (Elsevier),
+Microsoft Office Plug-in,
+mpVision (Modicus Prime),
+Polygon AI (Rewire Neuro)","Autoupload/folder watch,
+Data analysis",Yes,"Calendar,
+Task management","Yes,
+Cross-project workflows,
+Project-related workflows","REST API,
+SDK",No,"Browser based,
+Mobile Application","Provider's Cloud,
+Local,
+Cloud of own choice","Software as a Service,
+On-premises","Windows,
+Linux"
+ELN-11,Kadi4Mat,"Kadi4Mat is the Karlsruhe Data Infrastructure for Materials Science, an open source software for managing research data. The goal of this project is to combine the ability to manage and share data, the repository, with the ability to analyze, visualize and transform these data, the electronic laboratory notebook (ELN).",Karlsruher Institut für Technologie (KIT),Kadi4Mat is an open source software for managing research data,https://kadi.iam.kit.edu/,Active,v0.51.0 released three weeks prior to date right,22/07/2024,"Secure software development life cycle (SDLC),
+Continuous maintenance","Export to structured format,
+Export to document format",Open Source,"Generic,
+Materials",Free,Demo,Germany,Yes,"English,
+Freely extensible,
+German,
+Multilingual",Online documentation,Complete statistics,None,"Browser forms,
+Plain text editor,
+Freehand/Sketches",All formats,Drag and Drop/File Chooser,"Complete content in machine readable format,
+Formats suitable for publication,
+Formats suitable for long term archiving","Define own templates,
+Import of own templates","Full text search,
+Advanced/conditional search",Role management,"Versioning,
+Timestamping",None,Sample Tracking,"None,
+Create own plug-ins",None,No,None,"Graphical,
+Export possible,
+Cross-project workflows","REST API,
+Python API",Yes,"Browser based,
+Responsive Design","Local,
+Cloud of own choice","On-premises,
+Software as a Service",Linux
+ELN-12,LabArchives,"LabArchives is a SaaS application suite for better science used by more than 610,000 scientists to manage and protect research data, inventories, and resources. LabArchives products help scientists document their research data, prove and protect discoveries, and collaborate securely. LabArchives is the leading SaaS application platform for managing research data and is used in thousands of university lab courses and in more than 500 of the world's leading research organizations.","LabArchives, LLC","LabArchives is part of the Dotmatics platform. Dotmatics are owned by the company previously known as Insightful Science (Who own SnapGene, Genius and Prism and Lab Archives) and the entire set of companies have been rebranded as Dotmatics",https://www.labarchives.com/,Active,25/06/2024,02/07/2024,"Continuous maintenance,
+Storage in multiple data centers,
+Backup and restore,
+Secure infrastructure","Data migration from other systems (incoming migration),
+Individual backups of notebooks in multiple formats,
+Backups of all notebooks simultaneously with transfer to an institutional repository or other storage location",Closed Source,"Generic,
+Life Sciences,
+Genetics,
+Biochemistry,
+Chemistry","Chargeable / Paid for / fee-based,
+Freemium (Number of users, functions),
+Per person / Tiered Pricing,
+Academic,
+Industry",Demo,"USA,
+UK",Yes,English,"Online documentation,
+User training (online, on site),
+Support by provider (Consulting)",Yes,Offline cache,"Plain text editor,
+Freehand/Sketches,
+Annotation,
+With internal links,
+With external links,
+Dictation function,
+Scientific calculator,
+Table editor,
+Mathematical formula/equation editor,
+XHTML-Editor,
+Barcode Scanner,
+Rich text editor",All formats,"Drag and Drop/File Chooser,
+e-mail","Formats suitable for long term archiving,
+Formats suitable for publication","Define own templates,
+Import from internet sources,
+Import of own templates","Full text search,
+Database queries,
+Filtering,
+Advanced/conditional search,
+Search for reactions by chemical structure","Rights management,
+Role management,
+Notifications,
+Comments","Audit Trail,
+Electronic signature,
+Versioning,
+Timestamping","FERPA,
+FISMA,
+HIPAA,
+Good Laboratory Practice (GLP),
+ISO 27001,
+Good Manufacturing practice (GMP),
+FDA CFR 21 Part 11","Materials database,
+LIMS connectivity,
+Freezer Management,
+Sample Tracking,
+Inventory (devices)","DMP Tool,
+Google Drive,
+GoogleDocs,
+Box,
+One Drive,
+Dropbox,
+FAIRDOM,
+JupyterHub,
+eLife,
+F1000Research,
+Dataverse,
+DSpace,
+Figshare,
+Github,
+BioMed Central (Springer Nature),
+ChemDoodle (iChemLabs),
+FlowJo (BD),
+GraphPad Prism (Dotmatics),
+Label printing (Other),
+Logger Pro (Vernier),
+Mendeley (Elsevier),
+MethodsX (Elsevier),
+Microsoft Office Plug-in,
+SnapGene (Dotmatics)","Device control,
+Autoupload/folder watch",Unknown,"Task management,
+Calendar","Yes,
+Cross-project workflows,
+Project-related workflows","REST API,
+Other API",Unknown,"Browser based,
+Mobile Application,
+Responsive Design","Provider's Cloud,
+Local","On-premises,
+Software as a Service",Unknown
+ELN-13,Labcollector (AgileBio),"LabCollector was originally developed for the life sciences, but can be extensively and easily adapted to manage all laboratory activities in research and development.",AgileBio SARL,The AgileBio project was founded in 2002 from the convergence of biological and informatics experiences of Pierre Rodrigues (Ph.D Virology Pasteur Institute and Paris 7 University),https://labcollector.com/,Active,v6.23 released 15 July 2024,24/07/2024,Continuous maintenance,"Data migration from other systems (incoming migration),
+Backups of all notebooks simultaneously with transfer to an institutional repository or other storage location,
+Export to structured format,
+Export to packed format,
+Export to document format",Closed Source,"Generic,
+Life Sciences,
+Biology,
+Genetics,
+Pharmacy,
+Chemistry,
+Biochemistry","Chargeable / Paid for / fee-based,
+Freemium (Number of users, functions),
+Academic,
+Industry,
+Per person / Tiered Pricing",Demo,"USA,
+France",Unknown,Multilingual,"Online documentation,
+User training (online, on site),
+Support by provider (Consulting)",Unknown,Unknown,"Barcode Scanner,
+Freehand/Sketches,
+Chemical editor/sketching,
+With external links,
+Plain text editor,
+Table editor,
+Dictation function,
+Scientific calculator,
+XHTML-Editor,
+Mathematical formula/equation editor,
+Annotation,
+With internal links",All formats,"e-mail,
+SMS/MMS,
+Drag and Drop/File Chooser","Formats suitable for long term archiving,
+Formats suitable for publication","Define own templates,
+Subject specific templates","Full text search,
+Database queries,
+BLAST Search,
+Filtering,
+Advanced/conditional search,
+Search for reactions by chemical structure","Rights management,
+Role management","Audit Trail,
+Electronic signature,
+Timestamping,
+Versioning","FERPA,
+FISMA,
+HIPAA,
+TickITplus,
+ADA,
+Good Laboratory Practice (GLP),
+ISO 27001,
+Good Manufacturing practice (GMP),
+ASTM,
+CROMERRR,
+SAFE-BioPharma Digital Identity and Signature Standard,
+FDA CFR 21 Part 11","Sample Tracking,
+Freezer Management,
+Materials database,
+LIMS connectivity,
+Inventory (devices),
+Asset management","Slack,
+Mind the Graph (Cactus)",Unknown,Yes,"Calendar,
+Task management","Yes,
+Graphical,
+Cross-project workflows,
+Project-related workflows","Other API,
+REST API",Unknown,"Browser based,
+Local client,
+Mobile Application","Cloud of own choice,
+Local,
+Provider's Cloud","On-premises,
+Software as a Service","Windows,
+MacOS,
+Linux"
+ELN-14,LabWare,"LabWare's Electronic Laboratory Notebook offers the unique combination of experiment automation and procedure control, making it the ideal laboratory management software solution for both research and quality control settings.",LabWare Inc.,"LabWare was founded in 1987 in Wilmington, DE by Vance Kershner.",https://www.labware.com/lims/electronic-lab-notebook,Active,Blog being updated,25/07/2024,Backup and restore,Unknown,Closed Source,"Generic,
+Life Sciences,
+Genetics,
+Chemistry,
+Biology,
+Pharmacology,
+Biochemistry",Chargeable / Paid for / fee-based,Demo,USA,Yes,"English,
+Freely extensible,
+Multilingual","User training (online, on site),
+Online documentation,
+Support by provider (Consulting)",Unknown,Unknown,"Barcode Scanner,
+With external links,
+Chemical editor/sketching,
+Mathematical formula/equation editor,
+Scientific calculator,
+XHTML-Editor,
+Browser forms,
+Freehand/Sketches,
+Table editor,
+Plain text editor,
+Annotation",All formats,"e-mail,
+SMS/MMS,
+Drag and Drop/File Chooser","Formats suitable for long term archiving,
+Formats suitable for publication,
+Direct publication option","Import of own templates,
+Subject specific templates","Full text search,
+Database queries,
+BLAST Search,
+Filtering,
+Advanced/conditional search,
+Search for reactions by chemical structure","Role management,
+Rights management","Audit Trail,
+Timestamping,
+Electronic signature,
+Versioning","FERPA,
+HIPAA,
+FISMA,
+TickITplus,
+Good Laboratory Practice (GLP),
+ISO 27001,
+Good Manufacturing practice (GMP),
+Good Clinical practice (GCP),
+ASTM,
+Health Level 7 (HL7),
+CROMERRR,
+SAFE-BioPharma Digital Identity and Signature Standard,
+FDA CFR 21 Part 11","Materials database,
+Sample Tracking,
+Freezer Management,
+LIMS connectivity,
+Inventory (devices)","Marvin JS (ChemAxon),
+MarvinSketch (ChemAxon),
+Quality Analyst (Northwest Analytics),
+SAP BTP","Autoupload/folder watch,
+Device control",Yes,Calendar,"Yes,
+Cross-project workflows,
+Project-related workflows","Other API,
+REST API,
+SDK,
+ODBC",Unknown,"Browser based,
+Local client,
+Mobile Application,
+Responsive Design","Provider's Cloud,
+Local,
+Cloud of own choice","On-premises,
+Software as a Service",Windows
+ELN-15,Mbook Chemistry-Pro/Enterprise (Mestrelab),"Different to Mbook Chemistry and Analytical, Mbook Chemistry-Pro also includes functionalities such as COSHH assessment forms, inventory and stockroom tools for a convenient live management of your reagents and tracking/reporting of special compounds (eg: CMR) usage. The increased per person data storage limits match that of the hosted Enterprise version, where the only difference is that the Enterprise version contains all the functionality described within this entry and the non-Pro/Enterprise entry.",Mestrelab Research (Bruker BioSpin Corporation),"Effectively now owned by Bruker as part of SciY, which is their software arm launched in June 2023.",https://mestrelab.com/software/mbook-eln-general/,Active,Active site and upcoming events. Mbook v3.1.1 launched July 10th 2023.,25/07/2024,"Encryption in transit,
+Backup and restore",Export to structured format,Closed Source,"Chemistry,
+Life Sciences,
+Pharmacy","Academic,
+Industry,
+Per person / Tiered Pricing,
+Chargeable / Paid for / fee-based",Demo,Spain,No,English,"Online documentation,
+User training (online, on site),
+Support by provider (Consulting)",Yes,Unknown,"Chemical editor/sketching,
+Plain text editor,
+Scientific calculator,
+With external links",All formats,"Mobile phone photo (via app),
+Drag and Drop/File Chooser","Formats suitable for long term archiving,
+Formats suitable for publication,
+Complete content in document format,
+Complete content in machine readable format",Unknown,"Full text search,
+File/data hierarchy,
+Advanced/conditional search,
+Search for reactions by chemical structure","Role management,
+External guest permitted","Audit Trail,
+Electronic signature",FDA CFR 21 Part 11,"Inventory (devices),
+Materials database","Other vendor products,
+ChemDraw (Revvity Signals),
+Marvin JS (ChemAxon)",Data analysis,Unknown,Task management,Unknown,REST API,No,"Browser based,
+Mobile Application","Local,
+Provider's Cloud","On-premises,
+Software as a Service","Linux,
+MacOS,
+Windows"
+ELN-16,RSpace,RSpace is a fully integrated sample management and electronic lab notebook solution. Build a record of your research in an ELN that connects with the research tools you already use.,Research Space,"The origins of RSpace go back to 2012, when in a trial researchers at the University of Wisconsin preferred its predecessor eCAT over a number of other electronic lab notebooks.",https://www.researchspace.com/,Active,v2.0.0 released last month ,23/07/2024,"Secure infrastructure,
+Authentication,
+Secure software development life cycle (SDLC),
+Continuous maintenance,
+Role-based access,
+High availability and disaster recovery,
+Backup and restore","Data migration from other systems (incoming migration),
+Export to repository,
+Export to packed format,
+Export to structured format,
+Export to document format","Open Source,
+AGPL 3.0","Generic,
+Life Sciences,
+Chemistry,
+Biochemistry","Free,
+Freemium (Number of users, functions),
+Per person / Tiered Pricing,
+Academic,
+Industry","Classroom,
+Demo",UK,No,English,"Online documentation,
+User training (online, on site),
+Support by provider (Consulting)",Unknown,Offline cache,"Freehand/Sketches,
+Plain text editor,
+Rich text editor,
+With external links,
+Mathematical formula/equation editor,
+Chemical editor/sketching,
+Dictation function,
+Scientific calculator,
+Table editor,
+XHTML-Editor",All formats,"e-mail,
+Drag and Drop/File Chooser","Formats suitable for long term archiving,
+Formats suitable for publication,
+Direct publication option","Import from internet sources,
+Import of own templates","Full text search,
+Filtering,
+Advanced/conditional search,
+Search for reactions by chemical structure","Role management,
+Rights management,
+Notifications,
+Comments","Audit Trail,
+Electronic signature,
+Versioning,
+Timestamping","FERPA,
+FISMA,
+HIPAA,
+TickITplus,
+ADA,
+Good Laboratory Practice (GLP),
+ISO 27001,
+Good Manufacturing practice (GMP),
+Good Clinical practice (GCP),
+ASTM,
+Health Level 7 (HL7),
+CROMERRR,
+SAFE-BioPharma Digital Identity and Signature Standard,
+FDA CFR 21 Part 11","Materials database,
+LIMS connectivity,
+Inventory (devices),
+Sample Tracking","Slack,
+Dataverse,
+DSpace,
+Figshare,
+Dropbox,
+One Drive,
+Google Drive,
+Box,
+Egnyte,
+GoogleDocs,
+JoVE,
+DMP Tool,
+Jupyter,
+Github,
+ChemDraw (Revvity Signals),
+MarvinSketch (ChemAxon),
+Mendeley (Elsevier),
+Microsoft Office Plug-in,
+Teams,
+SnapGene (Dotmatics)",Unknown,Yes,Calendar,"Cross-project workflows,
+Project-related workflows",REST API,Yes,Browser based,"Local,
+Cloud of own choice,
+Provider's Cloud","Software as a Service,
+On-premises","Linux,
+MacOS"
+ELN-17,Agilent SLIMS,"Agilent SLIMS combines a laboratory information management system (LIMS) and an electronic laboratory notebook (ELN) to enable end-to-end solutions and manage all content and all context in the laboratory. Agilent SLIMS integrates with simple and more complex instruments and supports workflows for Analytical, NGS, Biobanks and R&D labs. It is flexible and configurable, helping you increase your lab's productivity.",Agilent Technologies,"Agilent Technologies, Inc. is an American company that provides instruments, software, services, and consumables for the entire laboratory workflow. Its global headquarters is located in Santa Clara, California. Agilent was established in 1999 as a spin-off from Hewlett-Packard.",https://www.agilent.com/en/product/software-informatics/lab-workflow-management-software/slims,Active,Version 6.8,10/07/2024,"Storage in multiple data centers,
+Secure software development life cycle (SDLC),
+Backup and restore,
+High availability and disaster recovery,
+Encryption at rest,
+Encryption in transit,
+Authentication,
+Role-based access",Vendor-supported outward migration,Closed Source,"Pharmacy,
+Biology,
+Generic,
+Genetics,
+Consumables","Academic,
+Industry,
+Per person / Tiered Pricing",Demo,"Germany,
+Switzerland,
+USA,
+Belgium,
+China",Yes,"French,
+English,
+Mandarin Chinese,
+German,
+Dutch","Online documentation,
+User training (online, on site),
+Support by provider (Consulting)","Configurable,
+Yes",None,"Barcode Scanner,
+Browser forms","Table formats,
+Structured formats,
+MS Office formats",Drag and Drop/File Chooser,Formats suitable for long term archiving,"Define own templates,
+Import from internet sources,
+Import of own templates","Database queries,
+Full text search,
+Advanced/conditional search","Rights management,
+Role management","Audit Trail,
+Electronic signature,
+Versioning,
+Timestamping","General Data Protection Regulation (GDPR),
+HIPAA,
+ISO 27001,
+Good Laboratory Practice (GLP),
+GxP,
+FDA CFR 21 Part 11","LIMS connectivity,
+Sample Tracking,
+Materials database,
+Inventory (devices),
+Freezer Management,
+Asset management,
+Instrument management","In-house plugins,
+Biobank,
+Other vendor products,
+iLab (Agilent),
+Label printing (Other),
+MassHunter (Agilent),
+LabX (Mettler Toledo)","Autoupload/folder watch,
+Data analysis,
+Device control",Yes,Taskboard,"Yes,
+Graphical,
+Reports","REST API,
+Python API,
+Java API","No,
+Yes","Responsive Design,
+Browser based","Provider's Cloud,
+Cloud of own choice,
+Local","On-premises,
+Software as a Service","iOS,
+Linux,
+MacOS,
+Windows"
+ELN-18,AI4Green,"An Electronic Laboratory Notebook (ELN) combining features, including data archival, collaboration tools, and green and sustainability metrics for organic chemistry, is presented. AI4Green is a web-based application, available as open-source code and free to use. It offers the core functionality of an ELN, namely, the ability to store reactions securely and share them among different members of a research team. As users plan their reactions and record them in the ELN, green and sustainable chemistry is encouraged by automatically calculating green metrics and color-coding hazards, solvents, and reaction conditions. The interface links a database constructed from data extracted from PubChem, enabling the automatic collation of information for reactions. The application’s design facilitates the development of auxiliary sustainability applications, such as our Solvent Guide. As more reaction data are captured, subsequent work will include providing “intelligent” sustainability suggestions to the user.",University of Nottingham,The ELN was developed by Professor Jonathan Hirst's Research Group at the University of Nottingham,https://ai4green.app/,Active,Still in active development with regular releases,12/07/2024,"Role-based access,
+Backup and restore","Vendor-supported outward migration,
+Export to document format,
+Export to table format","Open Source,
+AGPL 3.0",Chemistry,Free,Demo,UK,No,English,"Online documentation,
+User training (online, on site)",Yes,"Offline cache,
+Offline data capture","Browser forms,
+Chemical editor/sketching,
+Plain text editor,
+Rich text editor",Direct only (CF-01),Direct only (CF-01),"Complete content in document format,
+Formats suitable for long term archiving,
+Formats suitable for publication",None,Search for reactions by chemical structure,"Comments,
+Role management,
+Rights management","Timestamping,
+Versioning",None,None,"Ketcher Editor,
+Marvin JS (ChemAxon)",None,No,None,No,None,No,"Local client,
+Browser based","Provider's Cloud,
+Local",Software as a Service,Unknown
+ELN-19,Arxspan (Bruker BioSpin),"The Arxspan Electronic Lab Notebook System is completely cloud-based, without the need to purchase and install servers or databases. Users of the system can be added or removed at any time with a single click. In addition, scientists can be allowed access to any notebook in the system with the click of a mouse, allowing flexibility in the size and dynamics of research teams associated with a particular project. In addition, the cloud-based functionality of the system enables secure and efficient collaboration between universities, government agencies, NGOs, and industry.",Bruker BioSpin Corporation,"Arxspan and Arxlab are registered trademarks of Bruker. Both are part of SciY, which is their software arm launched in June 2023.",https://arxspan.com/product/electronic-lab-notebook/,Active,Legal notice on website not updated since 2023,12/07/2024,"Secure infrastructure,
+Backup and restore,
+High availability and disaster recovery",Unknown,Closed Source,"Life Sciences,
+Chemistry,
+Biology,
+Generic,
+Pharmacology",Per person / Tiered Pricing,Demo,USA,No,"English,
+Japanese,
+Multilingual","User training (online, on site),
+Online documentation,
+Support by provider (Consulting)",Unknown,Offline cache,"Barcode Scanner,
+With external links,
+Freehand/Sketches,
+Chemical editor/sketching,
+Dictation function,
+Plain text editor,
+Table editor,
+Annotation","Document formats,
+Table formats,
+Compressed formats,
+MS Office formats,
+Structured formats,
+Packed formats","e-mail,
+Drag and Drop/File Chooser","Formats suitable for long term archiving,
+Formats suitable for publication",Define own templates,"Full text search,
+Database queries,
+Advanced/conditional search,
+Search for reactions by chemical structure","Role management,
+Rights management","Audit Trail,
+Electronic signature,
+Timestamping,
+Versioning","SAFE-BioPharma Digital Identity and Signature Standard,
+Good Laboratory Practice (GLP),
+FDA CFR 21 Part 11","Inventory (devices),
+Materials database,
+Sample Tracking,
+Freezer Management,
+LIMS connectivity","Egnyte,
+Other vendor products,
+ChemDraw (Revvity Signals),
+Marvin JS (ChemAxon)","Data analysis,
+Device control,
+Autoupload/folder watch",Yes,Task management,"Yes,
+Project-related workflows,
+Cross-project workflows","Other API,
+REST API",Yes,"Browser based,
+Mobile Application",Provider's Cloud,Software as a Service,Unknown
+ELN-20,BIOVIA Notebook,"BIOVIA Notebook is an easy-to-use and easy-to deploy ELN for organizations focused on data capture, intellectual property protection, information sharing, process documentation and overall lower total cost of ownership. BIOVIA Notebook provides a high degree of flexibility for electronic data capture, while still meeting the requirements of both small to mid-size companies and large global enterprises.
+With BIOVIA Notebook, scientists can easily capture and record data on mobile devices for increased efficiency in the lab. Data is easy to search and find, by both text and chemical structures, increasing collaboration and eliminating “dark data” – the data which is often used only once and then forgotten or lost. Experiment templates save time and ensure consistency across the labs. The software is easy to use and learn, requiring minimal training – users are often up and running within an hour.",Biovia,Biovia is a subsidiary of Dassault Systèmes,https://www.3ds.com/products/biovia/notebook,Active,Website footer showing 2024 and pages appear maintained,16/07/2024,"Backup and restore,
+Encryption in transit,
+High availability and disaster recovery,
+Role-based access,
+Secure infrastructure,
+Authentication",Export to document format,Closed Source,"Generic,
+Genetics,
+Chemistry,
+Biology","Per person / Tiered Pricing,
+Industry",None,"USA,
+France",No,English,"Online documentation,
+Support by provider (Consulting)",Unknown,Unknown,"Chemical editor/sketching,
+Freehand/Sketches,
+Plain text editor","Image formats,
+Document formats,
+MS Office formats,
+Scientific formats",Drag and Drop/File Chooser,"Formats suitable for long term archiving,
+Complete content in document format","Define own templates,
+Import of own templates","Database queries,
+Full text search,
+Advanced/conditional search,
+Search for reactions by chemical structure","Rights management,
+Role management","Audit Trail,
+Electronic signature,
+Timestamping,
+Versioning","Good Manufacturing practice (GMP),
+Good Laboratory Practice (GLP),
+ISO 27001,
+FDA CFR 21 Part 11",LIMS connectivity,"Microsoft Office Plug-in,
+ChemDraw (Revvity Signals),
+Marvin JS (ChemAxon),
+MarvinSketch (ChemAxon)",Unknown,No,Task management,No,REST API,No,"Browser based,
+Local client","Provider's Cloud,
+Local","On-premises,
+Software as a Service","Android,
+iOS,
+Linux,
+MacOS,
+Windows"
+ELN-21,BIOVIA Scientific Notebook,"BIOVIA Scientific Notebook is a cloud-native ELN on the 3DEXPERIENCE platform, enabling the next generation of laboratory informatics knowledge management. Scientific Notebook includes support for synthetic chemistry and integrated formulations workflows.",Biovia,Biovia is a subsidiary of Dassault Systèmes,https://www.3ds.com/products/biovia/scientific-notebook,Active,Website footer showing 2024 and pages appear maintained,16/07/2024,,,,,,,,,,,,,,,,,,,,,,LIMS connectivity,,,,,,,,,,,
+ELN-22,BIOVIA Workbook,"BIOVIA Workbook is a multi-discipline and extensively configurable ELN which manages workflow authoring, procedure execution and sign-offs, and experimental documentation across different domains like Analytical Chemistry, Drug Development, Formulations, Process Chemistry or Biologics. ",Biovia,Biovia is a subsidiary of Dassault Systèmes,https://www.3ds.com/products/biovia/workbook,Active,Website footer showing 2024 and pages appear maintained,16/07/2024,,,,,,,,,,,,,,,,,,,,,,LIMS connectivity,,,,,,,,,,,
+ELN-23,BrightLab,"BrightLab is smart lab management software that streamlines and centralizes your essential research information—from experiment ideation to data automation. With several interlocking modules, BrightLab includes a collaborative electronic lab notebook (ELN), real-time inventory management, eCommerce, material requests, and benchtop instrument schedule.",Research Stash,,,Inactive,,16/07/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ELN-24,CDD Vault ,"CDD Vault ELN is a powerful and intelligent collaboration platform for biologists and chemists, and is further augmented by its fully integrated registration, visualization, and inventory capabilities.","Collaborative Drug Discovery, Inc.",CDD was founded in 2004 and has been securely hosting research data for thousands of scientists around the world.,https://www.collaborativedrug.com/,Active,Appears active from website footer,16/07/2024,Authentication,Unknown,Closed Source,"Biology,
+Chemistry,
+Consumables,
+Life Sciences,
+Natural Sciences","Academic,
+Per person / Tiered Pricing,
+Industry",Demo,USA,Yes,English,"Online documentation,
+User training (online, on site),
+Support by provider (Consulting)",Unknown,Unknown,"Chemical editor/sketching,
+Table editor,
+Rich text editor","MS Office formats,
+Document formats,
+Image formats",Drag and Drop/File Chooser,"Complete content in document format,
+Complete content in machine readable format,
+Formats suitable for publication",Define own templates,"Database queries,
+Advanced/conditional search,
+Search for reactions by chemical structure","Comments,
+Rights management,
+Role management","Audit Trail,
+Electronic signature,
+Timestamping","FISMA,
+General Data Protection Regulation (GDPR),
+SOC2,
+FDA CFR 21 Part 11",Sample Tracking,"Ketcher Editor,
+SnapGene (Dotmatics)",On request,No,Unknown,Unknown,REST API,Yes,Browser based,Provider's Cloud,Software as a Service,Unknown
+ELN-25,Chemotion,"The Chemotion ELN was designed for chemists and adapted to the special requirements of chemical laboratory work and documentation. It therefore serves as a digitalization instrument for work in chemistry, developed to overcome the current limitations of the existing systems. To reach this goal, the development, improvement, and extension of the ELN is a community effort. The ELN is also used in other disciplines beyond chemistry as it offers a broad generic functionality to meet the needs of scientists working in interdisciplinary environments. These generic functions are still being extended and adapted.
+Chemotion ELN offers a specific function that facilitates the publication of research data: it supports the transfer of data from a user's ELN account to a research data repository. This function reduces the scientists' effort in allowing access to research data, which is required by many funding agencies and helpful for the publication of scientific text publications. Currently, the ELN supports the transfer of data to the Chemotion repository.",Karlsruher Institut für Technologie (KIT),"The development of Chemotion started at the Karlsruhe Institute of Technology (KIT) in the group of Prof. Stefan Bräse as part of a DFG-funded project. Currently, the ELN Chemotion is developed by several software developers at different NFDI4Chem sites at KIT, FSU Jena, TU Braunschweig, IPB Halle, and RWTH Aachen. Chemotion is the ELN reference instance in NFDI4Chem (National Research Data Infrastructure for Chemistry).",https://www.chemotion.net/,Active,v1.9.3 released 13/05/24,16/07/2024,Continuous maintenance,"Software-bound import/export,
+Export to repository","Open Source,
+AGPL 3.0","Chemistry,
+Natural Sciences,
+Generic",Free,Demo,Germany,Yes,English,"Online documentation,
+User training (online, on site),
+Support by provider (Consulting)",No,Unknown,"Chemical editor/sketching,
+Plain text editor,
+Barcode Scanner,
+Browser forms,
+Scientific calculator","Structured formats,
+Scientific formats,
+Document formats,
+Image formats,
+Packed formats","Drag and Drop/File Chooser,
+e-mail","Formats suitable for publication,
+Complete content in machine readable format","Define own templates,
+Import of own templates,
+Microtitre plate templates","Advanced/conditional search,
+Search for reactions by chemical structure",Rights management,Unknown,Good Laboratory Practice (GLP),"Materials database,
+Sample Tracking","OpenBabel,
+rdkit,
+Ketcher Editor,
+ChemDraw (Revvity Signals),
+CAS SciFinder (ACS),
+Marvin JS (ChemAxon),
+Pubchem (NLM)",Autoupload/folder watch,Unknown,Calendar,Reports,"Other API,
+REST API",Yes,Local client,Local,On-premises,"Linux,
+MacOS,
+Windows"
+ELN-26,Datalab,"The main aim of datalab is to provide a platform for capturing the significant amounts of long-tail experimental data and metadata produced in a typical lab, and enable storage, filtering and future data re-use by humans and machines. The platform provides researchers with a way to record sample- and cell-specific metadata, attach and sync raw data from instruments, and perform analysis and visualisation of many characterisation techniques in the browser (XRD, NMR, electrochemical cycling, TEM, TGA, Mass Spec, Raman). Importantly, datalab stores a network of interconnected research objects in the lab, such that individual pieces of data are stored with the context needed to make them scientifically useful.",University of Cambridge,The system was originally developed in and is currently deployed for the Grey Group in the Department of Chemistry at the University of Cambridge.,https://the-datalab.readthedocs.io/en/latest/,Active,v0.4.1 released 15/07/24,16/07/2024,"Continuous maintenance,
+Authentication",Unknown,"Open Source,
+MIT","Chemistry,
+Materials",Free,None,UK,Yes,English,"Online documentation,
+Support by provider (Consulting)",No,None,"Browser forms,
+Plain text editor,
+Rich text editor",Scientific formats,Direct only (CF-01),Unknown,Subject specific templates,Unknown,Unknown,Unknown,None,"Sample Tracking,
+Materials database",Winchat,"Autoupload/folder watch,
+Data analysis","Yes,
+Unknown",Unknown,Graphical,Python API,Yes,Browser based,Local,On-premises,"Linux,
+MacOS,
+Windows"
+ELN-27,Docollab,Docollab solves your need to be clever about the research process so you can be smarter about your research.,Research Stash,,https://www.docollab.com/signin,Inactive,Shutdown 01/07/2024,19/07/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ELN-28,E-WorkBook (IDBS),"IDBS E-WorkBook is the world's best informatics platform for scientific research and discovery. Its flexibility can meet the needs of your industry and the different business units in your organization today, and can be quickly adapted and scaled to meet all the needs of tomorrow.",IDBS,IDBS is one of many life sciences companies at Danaher Corporation.,https://www.idbs.com/products/e-workbook/,Active,Appears active from ELN Finder  (25/06/2024) and site,19/07/2024,Secure infrastructure,Export to structured format,Closed Source,"Life Sciences,
+Chemistry,
+Consumables,
+Engineer,
+Energy,
+Biology,
+Biochemistry",Chargeable / Paid for / fee-based,Demo,"UK,
+USA",Yes,English,"User training (online, on site),
+Online documentation,
+Support by provider (Consulting)",Complete statistics,Unknown,"With external links,
+Chemical editor/sketching,
+Plain text editor,
+With internal links,
+Table editor",All formats,Drag and Drop/File Chooser,"Formats suitable for long term archiving,
+Complete content in machine readable format",Define own templates,"Full text search,
+Filtering,
+Advanced/conditional search","Comments,
+Role management","Audit Trail,
+Electronic signature,
+Versioning","ISO 27001,
+TickITplus,
+FDA CFR 21 Part 11","Materials database,
+Inventory (devices),
+Sample Tracking,
+Freezer Management,
+LIMS connectivity","Other vendor products,
+Label printing (Other)","Device control,
+Data analysis",Yes,Task management,Yes,"Other API,
+REST API",Unknown,"Browser based,
+Local client",Provider's Cloud,Software as a Service,Unknown
+ELN-29,ecLabNote,"ecLabNote is a completely web-based electronic lab notebook (ELN) created by organic chemists for organic chemists.
+- Easy to use
+- Easy to learn
+- No downloads – ecLabNote runs completely in your browser
+- Cross platform
+- Collaborate within your group
+- No needs for hardware investments or backup-routines",Konsult Wallner AB,,http://www.eclabnote.com,Inactive,403 Forbidden error code on landing page.,19/07/2024,"Encryption at rest,
+Encryption in transit,
+Secure software development life cycle (SDLC),
+Backup and restore,
+Continuous maintenance,
+Secure infrastructure,
+Role-based access",Unknown,Closed Source,Chemistry,"Per person / Tiered Pricing,
+Chargeable / Paid for / fee-based",Demo,Sweden,No,English,"Online documentation,
+Support by provider (Consulting)",Unknown,Unknown,"Chemical editor/sketching,
+Rich text editor",All formats,Drag and Drop/File Chooser,"Complete content in machine readable format,
+Complete content in document format",Unknown,"Full text search,
+Advanced/conditional search,
+Search for reactions by chemical structure",Rights management,"Audit Trail,
+Versioning",None,Materials database,None,Unknown,No,None,No,None,No,Browser based,Provider's Cloud,Software as a Service,Linux
+ELN-30,eNovalys,,eNovalys,,,Inactive,,26/07/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ELN-31,Evernote,"Remember everything and tackle any project with your notes,
+tasks, and schedule all in one place.",Evernote Corporation,,https://evernote.com/ ,Active,,26/07/2024,,,,Generic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ELN-32,Exemplar LIMS,,Sapio Sciences,,,Inactive,,26/07/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ELN-33,Findings,,Nucleobytes BV,,,Inactive,,26/07/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ELN-34,FindMolecule,,FindMolecule,,https://findmolecule.com/ ,Active,Accessed trial,19/07/2024,"Secure infrastructure,
+Backup and restore,
+Encryption at rest,
+Encryption in transit,
+Authentication","Export to structured format,
+Export to table format,
+Export to document format",Closed Source,"Chemistry,
+Biology","Freemium (Number of users, functions),
+Academic,
+Industry,
+Per person / Tiered Pricing",Demo,Canada,No,"English,
+French",Online documentation,No,None,"Browser forms,
+Chemical editor/sketching,
+Table editor,
+Rich text editor,
+Barcode Scanner",All formats,Drag and Drop/File Chooser,"Complete content in machine readable format,
+Formats suitable for publication",None,"Advanced/conditional search,
+Search for reactions by chemical structure","Rights management,
+Role management","Electronic signature,
+Audit Trail",FDA CFR 21 Part 11,"Materials database,
+Inventory (devices),
+Ordering function,
+Sample Tracking",None,Data analysis,No,None,No,None,No,Browser based,Provider's Cloud,Software as a Service,Unknown
+ELN-35,Github,,"GitHub, Inc.",,https://github.com/,Active,,26/07/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ELN-36,Herbie,"Herbie is ideally suited for labs with manufacturing and characterization processes that are somehow standardized or performed more than once in a similar way. Users enter data in well-structured, pre-defined protocols of each process for comparability, quality assurance, and usability. The protocols are then flexibly linked to reflect the complete lifecycle of a sample or experiment. Additional free-text entries linked with research entities like people, projects, devices, samples, and data files enable the user to find everything relevant interconnected in one place. The inserted information is easily accessible in different contexts, such as chronological journals filtered by everything related to an entity or a tabular database view filled from the entries in the protocols. We want Herbie to fit well in the existing software ecosystem, so it provides export, import, an API, and connections to other software, such as the ELN Chemotion. Herbie is still growing, so more features will come soon.",Helmholtz-Zentrum Hereon," The ELN Herbie is originally tailored to cover and interlink the heterogeneous process chain of metallic biomaterials research, including materials development, biological characterization, and synchrotron imaging. Due to its modular structure, however, it can be and is already being adapted to other fields of materials science.",https://demo.chemotion.scc.kit.edu/,Inactive,Can no longer access demo instance nor any update on development provided.,22/07/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ELN-37,Hivebench,,Elsevier,,,Inactive,,26/07/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ELN-38,Jupyter Notebook,The original web application for creating and sharing computational documents,Project Jupyter,"Project Jupyter is a non-profit, open-source project, born out of the IPython Project in 2014 as it evolved to support interactive data science and scientific computing across all programming languages. Jupyter will always be 100% open-source software, free for all to use and released under the liberal terms of the modified BSD license.",https://jupyter.org/try,Active,,26/07/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ELN-39,JupyterHub,"JupyterHub brings the power of notebooks to groups of users. It gives users access to computational environments and resources without burdening the users with installation and maintenance tasks. Users - including students, researchers, and data scientists - can get their work done in their own workspaces on shared resources which can be managed efficiently by system administrators.
+
+JupyterHub runs in the cloud or on your own hardware, and makes it possible to serve a pre-configured data science environment to any user in the world. It is customizable and scalable, and is suitable for small and large teams, academic courses, and large-scale infrastructure.",Project Jupyter,"Project Jupyter is a non-profit, open-source project, born out of the IPython Project in 2014 as it evolved to support interactive data science and scientific computing across all programming languages. Jupyter will always be 100% open-source software, free for all to use and released under the liberal terms of the modified BSD license.",https://jupyter.org/hub,Active,,26/07/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ELN-40,JupyterLab,The latest web-based interactive development environment,Project Jupyter,"Project Jupyter is a non-profit, open-source project, born out of the IPython Project in 2014 as it evolved to support interactive data science and scientific computing across all programming languages. Jupyter will always be 100% open-source software, free for all to use and released under the liberal terms of the modified BSD license.",https://jupyter.org/try,Active,,26/07/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ELN-41,LabCloud,"LabCloud™ is a free, complete lab management solution for small and medium-sized R&D organizations.","LabCloud, Inc.",Labcloud Inc was founded 2013.,https://www.labcloudinc.com/,Inactive,Copyright statement not updated since 2020,23/07/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ELN-42,LabGuru (BioData),"The Labguru Electronic Lab Notebook was created by scientists for scientists, with an intuitive and user-friendly interface facilitating onboarding and simplifying every aspect of research. The ELN software provides you with the structure necessary to organize your data and get the most out of your results, without compromising on flexibility and adaptability — making it the best ELN choice for modern research organizations.",BioData Inc,"Part of the Holtzbrinck Publishing Group; Jonathan Gross, Labguru’s founder, laid the groundwork for the founding of Labguru in 2008, when a young PI asked him to develop an integrated system for his new lab.",https://www.labguru.com/,Active,Active site,24/07/2024,"Backup and restore,
+High availability and disaster recovery,
+Encryption at rest,
+Encryption in transit",Unknown,Closed Source,Life Sciences,Chargeable / Paid for / fee-based,Demo,"USA,
+UK,
+Israel",Yes,"English,
+French,
+Hebrew,
+Spanish","User training (online, on site),
+Online documentation,
+Support by provider (Consulting)",Yes,Unknown,"Chemical editor/sketching,
+Plain text editor,
+With external links,
+Freehand/Sketches,
+Browser forms",All formats,Drag and Drop/File Chooser,"Formats suitable for long term archiving,
+Formats suitable for publication","Import from internet sources,
+Define own templates","Tagging,
+Advanced/conditional search","Role management,
+Rights management,
+Comments","Audit Trail,
+Electronic signature,
+Timestamping","ISO 27001,
+FDA CFR 21 Part 11","Inventory (devices),
+LIMS connectivity,
+Ordering function,
+Materials database,
+Sample Tracking",Marvin JS (ChemAxon),"Device control,
+Autoupload/folder watch",Yes,Task management,Yes,"REST API,
+Other API",Unknown,"Browser based,
+Local client,
+Responsive Design",Provider's Cloud,"Software as a Service,
+On-premises","Windows,
+Linux"
+ELN-43,Labii,"Labii ELN (Electronic Laboratory Notebook) is a powerful digital platform that simplifies the documentation and management of experiments, enabling researchers to effortlessly capture detailed records of their procedures, observations, and results. By storing valuable research data in a single, organized repository, Labii ELN facilitates the generation of verifiable scientific discoveries and streamlines the research process. With its versatile applications in both production and R&D settings, Labii ELN offers various customization options to suit individual needs. Moreover, its seamless integration with other Labii modules enhances inventory management, further accelerating the pace of scientific innovation and discovery.",Labii Inc.,"Labii is a dynamic team of passionate professionals dedicated to revolutionizing how laboratories operate. With a deep understanding of the challenges faced by researchers, we've developed a suite of integrated tools and platforms designed to simplify lab management, accelerate research processes, and foster a collaborative environment.",https://www.labii.com/en ,Active,Site appears active,23/07/2024,"High availability and disaster recovery,
+Encryption in transit,
+Authentication,
+Role-based access,
+Encryption at rest,
+Backup and restore",Unknown,Closed Source,"Biotech,
+Chemistry,
+Biology,
+Energy,
+Engineer,
+Generic,
+Life Sciences,
+Natural Sciences,
+Pharmacy","Freemium (Number of users, functions),
+Chargeable / Paid for / fee-based,
+Industry,
+Per person / Tiered Pricing",Demo,USA,Yes,"Freely extensible,
+English,
+Wu Chinese","Online documentation,
+User training (online, on site),
+Support by provider (Consulting)","Can be turned off,
+Complete statistics,
+Configurable",Unknown,"Barcode Scanner,
+Browser forms,
+Chemical editor/sketching,
+Dictation function,
+Freehand/Sketches,
+Mathematical formula/equation editor,
+Microtitre plates,
+Plain text editor,
+Rich text editor,
+Scientific calculator,
+Table editor,
+With internal links,
+With external links",All formats,"Drag and Drop/File Chooser,
+Mobile phone photo (via app)","Complete content in document format,
+Complete content in machine readable format,
+Formats suitable for long term archiving,
+Formats suitable for publication","Define own templates,
+Import from internet sources,
+Import of own templates,
+Microtitre plate templates,
+Subject specific templates","Database queries,
+Search by command line,
+Advanced/conditional search,
+Search for reactions by chemical structure","Comments,
+Rights management,
+Role management,
+Notifications,
+Real-time collaboration","Audit Trail,
+Electronic signature,
+Timestamping,
+Versioning","Good Clinical practice (GCP),
+Good Laboratory Practice (GLP),
+Good Manufacturing practice (GMP),
+Health Level 7 (HL7),
+HIPAA,
+ISO 27001,
+General Data Protection Regulation (GDPR),
+SAFE-BioPharma Digital Identity and Signature Standard,
+SOC2,
+FDA CFR 21 Part 11","Freezer Management,
+Inventory (devices),
+LIMS connectivity,
+Materials database,
+Ordering function,
+Sample Tracking","F1000Research,
+GoogleDocs,
+Google Drive,
+OpenBabel,
+Widgets,
+On request,
+BioMed Central (Springer Nature),
+ChemDraw (Revvity Signals),
+Create own plug-ins,
+In-house plugins,
+Marvin JS (ChemAxon),
+MarvinSketch (ChemAxon),
+Mendeley (Elsevier),
+Pubchem (NLM),
+SAP BTP,
+SnapGene (Dotmatics)","On request,
+Data analysis,
+Autoupload/folder watch",Yes,"Calendar,
+Taskboard,
+Task management","Cross-project workflows,
+Graphical,
+Import possible,
+Export possible,
+Project-related workflows,
+Reports","Command line input,
+Other API,
+Python API,
+REST API,
+SDK",Yes,"Browser based,
+Local client,
+Mobile Application,
+Responsive Design","Provider's Cloud,
+Local","Software as a Service,
+On-premises",Unknown
+ELN-44,LabLog,"Lab work is a dynamic and fast paced effort. Organize, track, and share your methods, experiments and data with a touch of a button.
+Gain powerful insights into your weekly and monthly progress as new experiments become necessary.",LabLog,"LabLog was founded by two former postdoctoral researchers from NIH (National Institutes of Health), Dr. Hani Ebrahimi and Dr. Pamela Gallagher. After years of research experience at the senior level, they found themselves frustrated with a lack of good laboratory documents and workflow management systems. They decided to create LabLog — an Electronic Lab Notebook that helps researchers find more free time in the lab to focus on what matters most. ",https://labnotebook.app/,Inactive,Appears inactive. Awaiting free account confirmation. Seems to be fairly inactive from LinkedIn and on-site blog (no post since June 2021),24/07/2024,"Role-based access,
+Secure software development life cycle (SDLC),
+High availability and disaster recovery,
+Backup and restore",,Closed Source,"Natural Sciences,
+Life Sciences,
+Generic",Chargeable / Paid for / fee-based,Demo,"UK,
+USA",,,,,,,,,,,,,Unknown,"ISO 27001,
+FDA CFR 21 Part 11",,,,,,,,,,,,
+ELN-45,LabVantage,"An end-to-end laboratory information management (LIMS) platform has to work for everyone. For operators, who rely on it to streamline their daily work in the research lab, the QC lab, and at each point between. And for executives, who need real-time insights and meaningful, validated domain research to outsmart competitors. LabVantage LIMS is your solution—benchtop to boardroom.",LabVantage Solutions Inc.,Champions of digital transformation in lab-centered enterprises around the world,https://www.labvantage.com/,Active,Active updates on site,24/07/2024,"Backup and restore,
+Secure software development life cycle (SDLC),
+Encryption at rest,
+Encryption in transit",Unknown,Closed Source,Generic,Chargeable / Paid for / fee-based,Demo,"USA,
+UK",Unknown,English,"User training (online, on site),
+Online documentation,
+Support by provider (Consulting)",Unknown,Unknown,"Chemical editor/sketching,
+With internal links,
+With external links,
+Annotation,
+Plain text editor,
+Table editor,
+Rich text editor",All formats,Drag and Drop/File Chooser,Unknown,Define own templates,"Full text search,
+Advanced/conditional search","Rights management,
+Comments,
+External guest permitted",Audit Trail,"ISO 27001,
+GxP,
+FDA CFR 21 Part 11","Asset management,
+Materials database,
+Inventory (devices),
+Sample Tracking,
+LIMS connectivity,
+Instrument management",Marvin JS (ChemAxon),Data analysis,Unknown,Task management,Yes,None,Yes,"Browser based,
+Responsive Design","Provider's Cloud,
+Local,
+Cloud of own choice","Software as a Service,
+On-premises",Unknown
+ELN-46,Limsophy,"Your work processes require storing unstructured research data. Your experiment reports are stored project- or study-related. You need elementary project management functions, employee assignment to projects and budget control. You want to document your work with freely definable experiment templates. Limsophy RIMS for research laboratories is best suited for you.",AAC Infotray AG,Technology platform and consulting expertise from Winterthur: AAC Infotray relies on expertise and flexibility to offer information management systems tailored to every customer need.,https://www.limsophy.com/en/lims-software/,Active,Site updated,25/07/2024,Unknown,Unknown,Closed Source,"Generic,
+Life Sciences,
+Genetics,
+Chemistry,
+Biology,
+Pharmacology,
+Pharmacy",Chargeable / Paid for / fee-based,None,Switzerland,Yes,"Multilingual,
+German","User training (online, on site),
+Support by provider (Consulting)",Unknown,"Offline cache,
+Offline data capture","Barcode Scanner,
+Mathematical formula/equation editor,
+With external links,
+Freehand/Sketches,
+Chemical editor/sketching,
+Dictation function,
+Scientific calculator,
+Table editor,
+Plain text editor,
+XHTML-Editor,
+With internal links",All formats,"e-mail,
+SMS/MMS,
+Drag and Drop/File Chooser","Formats suitable for long term archiving,
+Formats suitable for publication","Import of own templates,
+Subject specific templates","Database queries,
+Filtering,
+Full text search,
+File/data hierarchy,
+Advanced/conditional search","Rights management,
+Role management","Audit Trail,
+Electronic signature,
+Timestamping,
+Versioning","Good Laboratory Practice (GLP),
+Good Manufacturing practice (GMP),
+ISO 27001,
+ASTM,
+Good Clinical practice (GCP),
+Health Level 7 (HL7),
+SAFE-BioPharma Digital Identity and Signature Standard,
+FDA CFR 21 Part 11","Inventory (devices),
+Materials database,
+Sample Tracking,
+LIMS connectivity,
+Freezer Management","Dropbox,
+Google Drive,
+GoogleDocs,
+Box,
+One Drive,
+Dataverse,
+DSpace,
+Github,
+Atlas CDS (Thermo Fisher Scientific),
+ChemDraw (Revvity Signals),
+Logger Pro (Vernier),
+MarvinSketch (ChemAxon),
+Microsoft Office Plug-in,
+Mind the Graph (Cactus),
+Teams,
+SAP BTP,
+SnapGene (Dotmatics)","Autoupload/folder watch,
+Device control",Yes,"Calendar,
+Taskboard,
+Task management","Cross-project workflows,
+Project-related workflows","REST API,
+SDK,
+ODBC",Unknown,"Browser based,
+Local client","Local,
+Cloud of own choice","On-premises,
+Software as a Service",Unknown
+ELN-47,LOGS-ELN (SIGNALS),"LOGS-ELN is a browser-based electronic lab notebook for scientists conducting experiments in biochemistry, chemistry, physical sciences, material sciences and other related fields. Besides the conventional ELN features (high-end text editor, experimental notes, dated entries, versioning & audit trail, import of images & documents, etc.) this ELN understands dataformats. Users can upload spectroscopic data from various vendors manually or automatically (e.g. NMR, EPR, UV/Vis, Raman, etc.) and LOGS-ELN will parse the format files, resulting in a searchable database of measurements, and the ability to display spectra within a built in spectrum viewer. Data can be linked and be displayed within the ELN seamlessly, via drag & drop functionality. This innovative combination results in the ability to document the complete data cycle for all research needs. By linking experimental protocols directly with measurement data, the experimental documentation lays the necessary ground work for a lab that conducts and saves data in a FAIR fashion. LOGS-ELN can be combined with LOGS-SDMS, a scientific data management system that is able to collect data from lab instruments automatically, and includes a sample database that keeps track of sample measurements, storage coordinates and linked media.",SIGNALS GmbH & Co KG,"Effectively now owned by Bruker as part of SciY, which is their software arm launched in June 2023.",https://logs.sciy.com/products,Inactive,"LOGS-ELN doesn't appear to be continued. Company bought out by Sciy, meaning LOGS standalone (LOGS-SDMS) is a separate data management system to the ELN or LIMS provided by Sciy (Arxspan and Mestrelab (SciY-owned)'s Mbooks).",25/07/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ELN-48,Mbl Book,,SMI Softmark Informationstechnologien GmbH i. L.,,,Inactive,,25/07/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ELN-49,Mbook Chemistry/ Analytical (Mestrelab),"Mbook Chemistry and Analytical are web-based, cloud-hosted or in-house ELN solutions. They are ideally suited for synthetic or analytical chemists,respectively. Mbook is designed to accommodate users of distinct hierarchical profiles (from bench chemist to group manager) with associated permission (from read only to full project and team management). Mbook allows the creation of working teams and projects within which the level of access can be restricted. Mbook Chemistry comes with Mbook Photo, a free App for tablets and mobile devices, making it easy for chemists to take snapshots in the lab and upload them effortlessly to their experiments. Mbook Analytical instead houses more analytical chemist-friendly features. These have been grouped for their overall similarities.
+",Mestrelab Research (Bruker BioSpin Corporation),"Effectively now owned by Bruker as part of SciY, which is their software arm launched in June 2023.",https://mestrelab.com/software/mbook-eln-general/,Active,Active site and upcoming events. Mbook v3.1.1 launched July 10th 2023.,25/07/2024,"Encryption in transit,
+Backup and restore",Export to structured format,Closed Source,"Chemistry,
+Life Sciences,
+Pharmacy","Academic,
+Industry,
+Per person / Tiered Pricing,
+Chargeable / Paid for / fee-based",Demo,Spain,No,English,"Online documentation,
+User training (online, on site),
+Support by provider (Consulting)",Yes,Unknown,"Chemical editor/sketching,
+Plain text editor,
+Scientific calculator,
+With external links",All formats,"Mobile phone photo (via app),
+Drag and Drop/File Chooser","Formats suitable for long term archiving,
+Formats suitable for publication,
+Complete content in document format,
+Complete content in machine readable format",Unknown,"Full text search,
+File/data hierarchy,
+Advanced/conditional search,
+Search for reactions by chemical structure","Role management,
+External guest permitted","Audit Trail,
+Electronic signature",FDA CFR 21 Part 11,"Inventory (devices),
+Materials database","Other vendor products,
+ChemDraw (Revvity Signals),
+Marvin JS (ChemAxon)",Data analysis,Unknown,Task management,Unknown,REST API,No,"Browser based,
+Mobile Application","Local,
+Provider's Cloud","On-premises,
+Software as a Service","Linux,
+MacOS,
+Windows"
+ELN-50,NOMAD,"NOMAD lets you manage and share your materials science data in a way that makes it truly useful to you, your group, and the community. Free and open source. NOMAD processes uploaded files to extract structured data and rich metadata. Extend and customize NOMAD's schema to create specialized ELN editors to document your work and data.",FAIRmat,"
+FAIRmat is a consortium of many German universities and reasearch institutes. FAIRmat is building a FAIR data infrastructure for condensed-matter physics and the chemical physics of solids.",https://nomad-lab.eu/nomad-lab/,Active,v1.3.3 released two weeks prior,25/07/2024,Unknown,Backups of all notebooks simultaneously with transfer to an institutional repository or other storage location,"Open Source,
+Apache 2.0",Materials,Free,Demo,Germany,Yes,English,Online documentation,Can be turned off,Unknown,"Browser forms,
+Rich text editor,
+Plain text editor,
+With external links,
+With internal links",All formats,Drag and Drop/File Chooser,"Direct publication option,
+Complete content in document format,
+Complete content in machine readable format,
+Formats suitable for long term archiving,
+Formats suitable for publication","Define own templates,
+Import of own templates","Advanced/conditional search,
+Search for reactions by chemical structure",Rights management,Timestamping,None,None,"JupyterHub,
+In-house plugins","Data analysis,
+Autoupload/folder watch",Unknown,Unknown,Unknown,"REST API,
+Python API",Yes,Browser based,"Cloud of own choice,
+Local,
+Provider's Cloud","On-premises,
+Software as a Service",Linux
+ELN-51,NuGenesis LMS (Waters Corporation),"NuGenesis LMS, the analytical electronic laboratory notebook capability of the NuGenesis Lab Management System (LMS), enables labs to document observations, control procedures, exchange information with other software solutions, and easily find and collaborate on scientific results. Additionally, it interacts with the NuGenesis SDMS (data archival) component, Waters Laboratory Acquisition Control Environment (LAC/E) devices, SAP, and Empower. ",Waters Corporation,"At Waters,  we unlock the potential of science by solving problems that matter. Our software and instruments ensure the safety of the medicines we take, the purity of the food we eat and the water we drink, and the quality and durability of products we use every day. Together with our customers, in labs around the world, we deliver scientific insights to improve human health and well-being, helping to leave the world better than we found it.",https://www.waters.com/nextgen/us/en/products/informatics-and-software/lms-and-data-management/nugenesis-software/nugenesis-lms.html,Active,Active site,25/07/2024,Unknown,Unknown,Closed Source,Generic,Chargeable / Paid for / fee-based,Demo,USA,Unknown,English,"User training (online, on site),
+Support by provider (Consulting)",Unknown,Unknown,"Barcode Scanner,
+With external links,
+Chemical editor/sketching,
+Scientific calculator,
+Plain text editor,
+Mathematical formula/equation editor,
+Table editor,
+With internal links",All formats,Drag and Drop/File Chooser,"Formats suitable for publication,
+Formats suitable for long term archiving","Define own templates,
+Import of own templates,
+Subject specific templates","Full text search,
+Database queries,
+Filtering,
+Advanced/conditional search","Rights management,
+Role management","Audit Trail,
+Electronic signature,
+Timestamping,
+Versioning","Good Laboratory Practice (GLP),
+Good Manufacturing practice (GMP),
+CROMERRR,
+SAFE-BioPharma Digital Identity and Signature Standard,
+FDA CFR 21 Part 11","Materials database,
+Sample Tracking,
+LIMS connectivity,
+Inventory (devices)","Other vendor products,
+ChemDraw (Revvity Signals),
+SAP BTP",Autoupload/folder watch,Yes,Calendar,Cross-project workflows,Other API,Yes,Local client,Local,On-premises,Windows
+ELN-52,OneNote (Microsoft),One cross-functional notebook for all your notetaking needs.,Microsoft,,https://www.microsoft.com/en-gb/microsoft-365/onenote/digital-note-taking-app,Active,Microsoft endures,25/07/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ELN-53,Open Enventory,"Web-based Electronic Laboratory Notebook (ELN) with integrated Chemical Inventory by the group of Prof. Goossen (TU Kaiserslautern, Germany), based on PHP/MySQL. Allows (sub-)structure search, reaction planning, management of spectra and literature.",Technische Universitat Kaiserslautern,The ELN was developed by Felix Rudolphi,https://sourceforge.net/projects/enventory/,Active,Last updated 24/05/2024,25/07/2024,Unknown,"Export to structured format,
+Export to document format","AGPL 3.0,
+Open Source",Chemistry,Free,Demo,Germany,No,"French,
+German,
+English,
+Spanish,
+Portuguese","Online documentation,
+Support by provider (Consulting)",No,None,"Browser forms,
+Chemical editor/sketching,
+Rich text editor,
+Plain text editor",All formats,Drag and Drop/File Chooser,"Complete content in document format,
+Complete content in machine readable format,
+Formats suitable for long term archiving,
+Formats suitable for publication",None,"Database queries,
+Full text search,
+Advanced/conditional search,
+Search for reactions by chemical structure",Rights management,Versioning,None,"Materials database,
+Ordering function","Ketcher Editor,
+ChemDoodle (iChemLabs),
+ChemDraw (Revvity Signals)",Autoupload/folder watch,Yes,Task management,No,None,No,"Local client,
+Browser based",Local,On-premises,"Linux,
+Windows"
+ELN-54,openBis,"Describe your wet lab experiments or computer experiments and link to materials, samples, and protocols stored in the inventory.",ETH Zurich,The dev team are part of ETH Zurich Scientific IT Services,https://openbis.ch/,Active,Latest version v20.10.8 released 29 May 2024,26/07/2024,"Continuous maintenance,
+Secure software development life cycle (SDLC)",Export to structured format,"AGPL 3.0,
+Open Source","Generic,
+Life Sciences,
+Materials,
+Biology",Free,Demo,Switzerland,Yes,English,"Online documentation,
+User training (online, on site)",Unknown,Unknown,"Barcode Scanner,
+Table editor,
+With external links,
+Plain text editor,
+Browser forms,
+Freehand/Sketches,
+With internal links",All formats,Drag and Drop/File Chooser,"Formats suitable for long term archiving,
+Formats suitable for publication,
+Direct publication option","Import of own templates,
+Subject specific templates","BLAST Search,
+Database queries,
+Advanced/conditional search","Role management,
+Rights management","Audit Trail,
+Timestamping",None,"Materials database,
+Sample Tracking,
+LIMS connectivity,
+Freezer Management,
+Inventory (devices)","JupyterHub,
+FAIRDOM,
+PlasMapper,
+DSpace,
+Create own plug-ins",Autoupload/folder watch,Yes,Task management,Yes,"Other API,
+REST API,
+SDK,
+Python API,
+Java API",Unknown,Browser based,"Local,
+Cloud of own choice",On-premises,"MacOS,
+Linux"
+ELN-55,OSF,"OSF is a free, open platform to support your research and enable collaboration.",Center for Open Science,"The Center for Open Science (COS) was founded in 2013 to start, scale, and sustain open research practices that will democratize access to research, improve inclusion of all stakeholders, enhance accountability to research integrity, facilitate the self-corrective process of science, expand transparency and sharing of all research content, and improve research rigor and reproducibility.",https://osf.io/,Active,Latest version v19.31.0 released 08/11/2019,26/07/2024,,Backups of all notebooks simultaneously with transfer to an institutional repository or other storage location,"Apache 2.0,
+Open Source",,,,,,,,,,,,,,,,,,,,"Zotero,
+Dropbox,
+Google Drive,
+Mendeley (Elsevier)",,,,,,,,,,
+ELN-56,Overleaf,"Write like a rocket scientist with Overleaf
+—the collaborative, online LaTeX editor that anyone can use.",Overleaf,"Overleaf is a startup and social enterprise that builds modern collaborative authoring tools to help make science and research faster, more open and more transparent.
+
+Overleaf’s market-leading collaboration technology is now in use by over 17 million researchers, students, and teachers in institutions, labs, and industry worldwide.",https://www.overleaf.com/,Active,,26/07/2024,,Backups of all notebooks simultaneously with transfer to an institutional repository or other storage location,Closed Source,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ELN-57,PASTA-ELN,"PASTA-ELN is a free and open-source desktop software that facilitates transparent and consistent research data management in experimental science.
+Keeping the raw scientific data at its source, e.g., on the hard disk of the researcher or the respective microscope, is one of the core principles of PASTA-ELN. The local storage of the data ensures its accessibility with conventional analysis software while maintaining its confidentiality and security. At the same time, an adaptive CouchDB document database is used to store metadata, including the hierarchical structure of the project.
+PASTA-ELN extractor scripts process the raw measurement files while scanning the working directory. As a result, thumbnails, data, and metadata are automatically captured and integrated into the project. Scientists can create new or modify existing extractor scripts to tailor the data and metadata extraction to their needs.
+In addition, PASTA-ELN facilitates seamless data exchange through a compatible (.eln) file format that conforms to the RO-Crate standard. This feature promotes effective archiving and migration of data and metadata across platforms, supporting collaboration and data interoperability.","Forschungszentrum Jülich, Institute Structure and Function of Materials (IEK-2)","The ELN is developed by Dr. Steffen Brinckmann at the Institute Structure and Function of Materials (IEK-2), Forschungszentrum Jülich.",https://github.com/PASTA-ELN/pasta-eln,Active,Github maintained. v2.6.0,26/07/2024,"Continuous maintenance,
+Backup and restore",Export to packed format,"Open Source,
+MIT","Engineer,
+Life Sciences,
+Generic,
+Natural Sciences,
+Materials",Free,None,Germany,Yes,English,"Online documentation,
+User training (online, on site),
+Support by provider (Consulting)",No,Offline data capture,"Plain text editor,
+Rich text editor",All formats,Drag and Drop/File Chooser,"Formats suitable for long term archiving,
+Complete content in document format,
+Complete content in machine readable format",Define own templates,"Filtering,
+Advanced/conditional search",Role management,"Timestamping,
+Versioning",Good Laboratory Practice (GLP),None,Dataverse,"Data analysis,
+Autoupload/folder watch",No,None,No,Python API,No,Local client,Local,On-premises,"Linux,
+Windows"
+ELN-58,Perkin Elmer Signals,,PerkinElmer Inc.,,,Inactive,,26/07/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ELN-59,PerkinElmer E-Notebook,,PerkinElmer Inc.,,,Inactive,,26/07/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ELN-60,Pillar Science,,Pillar Science,,,Inactive,,26/07/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ELN-61,Protocols.io,"protocols.io is perfect for science methods, assays, clinical trials, operational procedures and checklists for keeping your protocols up do date as recommended by Good Laboratory Practice (GLP) and Good Manufacturing Practice (GMP)",protocols.io,Part of Springer Nature,https://www.protocols.io/ ,Active,Online,26/07/2024,,,Closed Source,,,,,,,,,,,,,,,,,,"Good Laboratory Practice (GLP),
+Good Manufacturing practice (GMP)",,,,,,,,,,,,
+ELN-62,quattro/LJ,"Our electronic lab journal quattro/LJ is a powerful web-based laboratory notebook designed for a large variety of scientific disciplines within research and development. It can be easily combined with the compound management system quattro/CM and analysis extension quattro/BA.
+Your experiments are documented and categorized digitally; audit trails and versions are tracked securely. quattro/LJ allows to work collaboratively on shared projects and experiments reducing redundancy and improving data integrity. Experiments can be electronically reviewed, signed and finalized. Experiments can be easily found as attachments can be searched and favourites can be defined.
+Customization for individual requirements, data safety processes and integration to other systems, such as chemistry databases or compound management systems, is supported.",quattro research GmbH,"Founded in 2004 by Dr Bernhard Schirm and Dr Markus Weisser, quattro research GmbH has its roots in their many years of experience in software development in the life sciences. As early as 1999, the two developed their first electronic laboratory notebook (ELN): quattro/LJ.",https://www.quattro-research.com/en/quattro-lj-2/,Active,Semi-active site. No posts since October 2023. Company appears alive and growing on LinkedIn.,26/07/2024,"Role-based access,
+Authentication,
+Secure infrastructure",Unknown,Closed Source,"Biology,
+Chemistry,
+Consumables,
+Generic,
+Life Sciences,
+Natural Sciences,
+Pharmacy,
+Genetics","Per person / Tiered Pricing,
+Academic,
+Industry,
+Chargeable / Paid for / fee-based",Demo,Germany,Yes,"English,
+German","Online documentation,
+User training (online, on site),
+Support by provider (Consulting)",Configurable,Unknown,"Barcode Scanner,
+Chemical editor/sketching,
+Browser forms,
+Plain text editor,
+With external links,
+With internal links,
+Table editor","Image formats,
+MS Office formats,
+Document formats,
+Table formats",Drag and Drop/File Chooser,"Complete content in document format,
+Complete content in machine readable format,
+Formats suitable for long term archiving,
+Formats suitable for publication","Define own templates,
+Subject specific templates","Full text search,
+Advanced/conditional search","Comments,
+Role management,
+Rights management","Audit Trail,
+Timestamping,
+Versioning,
+Electronic signature",None,"LIMS connectivity,
+Sample Tracking,
+Materials database",None,On request,No,Task management,Unknown,REST API,No,"Browser based,
+Mobile Application,
+Responsive Design,
+Local client","Local,
+Cloud of own choice",On-premises,Windows
+ELN-63,Riffyn Nexus,,Riffyn,,,Inactive,,26/07/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ELN-64,SampleDB,SampleDB is a web-based electronic lab notebook with a focus on sample and measurement metadata. (Source: SampleDB Documentation),"Forschungszentrum Jülich, PGI/JCNS-TA Scientific IT-Systems",Florian Rhiem is contact point and presumed lead dev.,https://scientific-it-systems.iffgit.fz-juelich.de/SampleDB/,Active,v0.28.2 released 2 weeks ago,26/07/2024,Backup and restore,Export to structured format,"Open Source,
+MIT",Generic,Free,Demo,Germany,No,"English,
+German","Online documentation,
+Support by provider (Consulting)",No,Unknown,"Browser forms,
+Plain text editor",Image formats,Drag and Drop/File Chooser,"Complete content in document format,
+Complete content in machine readable format",Define own templates,"Database queries,
+Full text search,
+Tagging,
+Advanced/conditional search","Comments,
+Rights management,
+Role management","Timestamping,
+Versioning",None,"Materials database,
+Sample Tracking","JupyterHub,
+Dataverse","Data analysis,
+Autoupload/folder watch,
+Device control",No,"Task management,
+Calendar","Yes,
+Export possible",REST API,No,"Responsive Design,
+Browser based",Local,On-premises,Linux
+ELN-65,Sapio Platform (Triple Play),"Your ELN, your LIMS, your data… we call it the Sapio Triple Play. 
+Ever think you’re getting a true Lab Information Management System and ELN platform until you realize your LIMS has no idea what your electronic notebook is doing?
+Say goodbye to siloed systems and hello to truly unified lab informatics with the Sapio Triple Play—a single, unified platform experience that handles your experiments, your workflows, and your data in one interface that puts the science first.
+Sapio ELN is one part of a unified whole. Explore the fullness of our platform. ",Sapio Sciences,"Sapio Sciences is a leading provider of Laboratory Management, Electronic Lab Notebook, and Knowledge Management Solutions.",https://www.sapiosciences.com/products/lab-informatics-platform/,Active,"Website alive and well, as is LinkedIn profile.",26/07/2024,"Encryption in transit,
+Secure infrastructure",Unknown,Closed Source,"Generic,
+Biology,
+Chemistry,
+Life Sciences",Chargeable / Paid for / fee-based,Demo,"UK,
+USA",Unknown,English,Support by provider (Consulting),Unknown,Unknown,"Free notes,
+Freehand/Sketches,
+Annotation",Unknown,Direct only (CF-01),Unknown,Define own templates,"Advanced/conditional search,
+Search for reactions by chemical structure",Real-time collaboration,Unknown,"ISO 27001,
+SOC2,
+HIPAA,
+FDA CFR 21 Part 11","LIMS connectivity,
+Sample Tracking,
+Materials database","In-house plugins,
+Other vendor products","Data analysis,
+Autoupload/folder watch",Yes,None,"Yes,
+Graphical,
+Reports",Other API,Unknown,Browser based,Provider's Cloud,Software as a Service,Unknown
+ELN-66,SciCord,"SciCord’s ELN/LIMS hybrid provides a set of preconfigured solutions to automate many laboratory functions. The solutions are plug-and-play modules, which are added to the Core SciCord solution. Solutions may also be configured to fit the specific needs of your organization. The solutions are compliance ready and include a full documentation package. Not only can SciCord provide ELN/LIMS services, but a major benefit of SciCord is the integration of other laboratory systems, such as instruments, document management, inventory, or reporting applications.",SciCord LLC,"SciCord improves laboratory efficiency and FDA compliance with a data management tool that empowers spreadsheets to enable information to be managed, controlled, structured, and shared.",https://scicord.com/,Active,"Website alive and well, as is LinkedIn profile.",26/07/2024,"Secure infrastructure,
+Backup and restore",Export to structured format,Closed Source,"Biotech,
+Pharmacy,
+Consumables,
+Natural Sciences,
+Life Sciences","Chargeable / Paid for / fee-based,
+Per person / Tiered Pricing",Demo,USA,No,English,"Online documentation,
+User training (online, on site),
+Support by provider (Consulting)",Unknown,Unknown,"Barcode Scanner,
+Plain text editor,
+Table editor",Unknown,Direct only (CF-01),Formats suitable for long term archiving,"Import of own templates,
+Define own templates","Full text search,
+Advanced/conditional search","Comments,
+Role management,
+Rights management,
+Notifications","Audit Trail,
+Electronic signature,
+Timestamping,
+Versioning","Good Clinical practice (GCP),
+Good Laboratory Practice (GLP),
+Good Manufacturing practice (GMP),
+FDA CFR 21 Part 11","Materials database,
+LIMS connectivity,
+Inventory (devices),
+Sample Tracking",In-house plugins,"Autoupload/folder watch,
+Data analysis",Yes,Task management,Yes,Other API,Unknown,Local client,Provider's Cloud,Software as a Service,Windows
+ELN-67,Sciformation,"Sciformation ELN is a multidisciplinary Electronic Laboratory Notebook (ELN) that can fulfill almost any requirement in this area – even the challenges in enterprises and large research institutes. It combines a feature-rich and flexible ELN with analytical data management, an in-house ordering system and a LIMS system – making use of available information and giving access to substantial synergies.",Sciformation Consulting GmbH,Originally started with the Max Planck Institute for Coal Research,https://www.sciformation.com/sciformation_eln.html?lang=en,Active,Site appears updated. No LinkedIn presence.,26/07/2024,Backup and restore,"Export to document format,
+Export to structured format,
+Export to packed format",Closed Source,"Biology,
+Chemistry,
+Energy,
+Engineer,
+Natural Sciences,
+Life Sciences,
+Genetics","Industry,
+Academic,
+Independent of number of users,
+Chargeable / Paid for / fee-based",Demo,Germany,Yes,"English,
+German,
+French,
+Spanish,
+Mandarin Chinese","Online documentation,
+User training (online, on site),
+Support by provider (Consulting)",No,None,"Barcode Scanner,
+Browser forms,
+Chemical editor/sketching,
+Plain text editor,
+Mathematical formula/equation editor,
+With internal links,
+Table editor,
+Freehand/Sketches,
+XHTML-Editor,
+Annotation",All formats,"Drag and Drop/File Chooser,
+Mobile phone photo (via app)","Complete content in document format,
+Complete content in machine readable format,
+Formats suitable for long term archiving,
+Formats suitable for publication","Define own templates,
+Microtitre plate templates","Database queries,
+Full text search,
+Advanced/conditional search,
+Search for reactions by chemical structure","Comments,
+Rights management,
+Role management","Audit Trail,
+Electronic signature,
+Versioning",None,"Instrument management,
+Materials database,
+Ordering function","Ketcher Editor,
+ChemDoodle (iChemLabs),
+ChemDraw (Revvity Signals),
+Label printing (Other)","Data analysis,
+Autoupload/folder watch",Yes,"Task management,
+Calendar",Reports,None,No,"Browser based,
+Local client,
+Responsive Design","Local,
+Cloud of own choice",On-premises,"Android,
+Windows,
+iOS,
+MacOS,
+Linux"
+ELN-68,Scilligence,"Our ELN simplifies many of the tasks associated with data management, so scientists can concentrate on research and development.",Scilligence,"Welcome to Scilligence, where innovation meets informatics to unlock the full potential of scientific research. Our mission is to empower organizations across pharmaceuticals, biotechnology, academia, and government agencies with cutting-edge solutions that streamline R&D processes, drive innovation, and pave the way for scientific discoveries. At Scilligence, we provide a versatile and tailored platform built on our proprietary informatics tools designed to foster collaboration, boost productivity, facilitate data-driven decision-making, and ensure robust compliance and data security.",https://scilligence.com/scilligence-eln/,Active,"Website alive and well, as is LinkedIn profile.",26/07/2024,"Authentication,
+Role-based access,
+Encryption in transit",Export to document format,Closed Source,Generic,"Industry,
+Academic,
+Chargeable / Paid for / fee-based","Demo,
+Classroom",USA,Unknown,English,Support by provider (Consulting),Unknown,None,"Chemical editor/sketching,
+HELM editor",All formats,Drag and Drop/File Chooser,Formats suitable for publication,Define own templates,Database queries,Real-time collaboration,"Electronic signature,
+Locking",ISO 27001,LIMS connectivity,In-house plugins,Unknown,Unknown,None,Reports,None,Unknown,Browser based,"Provider's Cloud,
+Local","On-premises,
+Software as a Service",Unknown
+ELN-69,Word (Microsoft),,Microsoft,,https://www.microsoft.com/en-gb/microsoft-365/word,Active,Microsoft endures,26/07/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
